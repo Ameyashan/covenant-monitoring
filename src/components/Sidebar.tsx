@@ -12,6 +12,10 @@ import {
   FileWarning,
   CircleDot,
   ShieldCheck,
+  ScrollText,
+  Briefcase,
+  FlaskConical,
+  TrendingUp,
 } from 'lucide-react';
 
 interface NavItem {
@@ -54,6 +58,15 @@ const navSections: NavSection[] = [
     title: 'Overview',
     items: [
       { label: 'Executive Dashboard', href: '/', icon: LayoutDashboard },
+    ],
+  },
+  {
+    title: 'Advanced',
+    items: [
+      { label: 'Audit Trail', href: '/audit', icon: ScrollText },
+      { label: 'Portfolio', href: '/portfolio', icon: Briefcase },
+      { label: 'Stress Testing', href: '/stress-test', icon: FlaskConical },
+      { label: 'Risk Scores', href: '/risk', icon: TrendingUp },
     ],
   },
 ];
