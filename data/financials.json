@@ -1,0 +1,6338 @@
+[
+  {
+    "id": "FIN-2e163714",
+    "borrowerId": "BRW-919ab02d",
+    "borrowerName": "Apex Software Inc",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-09",
+    "receivedDate": "2025-02-09T23:00:00Z",
+    "documents": [
+      "Apex_Software_Inc_Income_Statement_Q4_2024.pdf",
+      "Apex_Software_Inc_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 2.74,
+      "revenueGrowthYoY": 12.02,
+      "interestCoverageRatio": 4.26
+    },
+    "extractionConfidence": 0.88,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-f595355b",
+    "borrowerId": "BRW-919ab02d",
+    "borrowerName": "Apex Software Inc",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-12",
+    "receivedDate": "2025-04-13T02:00:00Z",
+    "documents": [
+      "Apex_Software_Inc_Income_Statement_Q1_2025.pdf",
+      "Apex_Software_Inc_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 2.91,
+      "revenueGrowthYoY": 14.34,
+      "interestCoverageRatio": 3.62
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-931bfcef",
+    "borrowerId": "BRW-919ab02d",
+    "borrowerName": "Apex Software Inc",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-25",
+    "receivedDate": "2025-07-25T21:00:00Z",
+    "documents": [
+      "Apex_Software_Inc_Income_Statement_Q2_2025.pdf",
+      "Apex_Software_Inc_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 2.56,
+      "revenueGrowthYoY": 14.54,
+      "interestCoverageRatio": 3.79
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-29b8a60c",
+    "borrowerId": "BRW-919ab02d",
+    "borrowerName": "Apex Software Inc",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-31",
+    "receivedDate": "2025-10-31T13:00:00Z",
+    "documents": [
+      "Apex_Software_Inc_Income_Statement_Q3_2025.pdf",
+      "Apex_Software_Inc_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 2.72,
+      "revenueGrowthYoY": 9.02,
+      "interestCoverageRatio": 4.18
+    },
+    "extractionConfidence": 0.96,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-035f1ce6",
+    "borrowerId": "BRW-d6ef67d9",
+    "borrowerName": "Quantum Cloud Systems",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-17",
+    "receivedDate": "2025-01-17T13:00:00Z",
+    "documents": [
+      "Quantum_Cloud_Systems_Income_Statement_Q4_2024.pdf",
+      "Quantum_Cloud_Systems_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.18,
+      "revenueGrowthYoY": 14.23,
+      "cashBalance": 6.53,
+      "interestCoverageRatio": 3.19
+    },
+    "extractionConfidence": 0.87,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-7a3be7ee",
+    "borrowerId": "BRW-d6ef67d9",
+    "borrowerName": "Quantum Cloud Systems",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-12",
+    "receivedDate": "2025-04-13T20:00:00Z",
+    "documents": [
+      "Quantum_Cloud_Systems_Income_Statement_Q1_2025.pdf",
+      "Quantum_Cloud_Systems_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.32,
+      "revenueGrowthYoY": 13.26,
+      "cashBalance": 6.03,
+      "interestCoverageRatio": 3.24
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-1276f77b",
+    "borrowerId": "BRW-d6ef67d9",
+    "borrowerName": "Quantum Cloud Systems",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-06",
+    "receivedDate": "2025-08-07T07:00:00Z",
+    "documents": [
+      "Quantum_Cloud_Systems_Income_Statement_Q2_2025.pdf",
+      "Quantum_Cloud_Systems_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 2.66,
+      "revenueGrowthYoY": 12.76,
+      "cashBalance": 7.3,
+      "interestCoverageRatio": 3.25
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-003f783f",
+    "borrowerId": "BRW-d6ef67d9",
+    "borrowerName": "Quantum Cloud Systems",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-18",
+    "receivedDate": "2025-10-19T08:00:00Z",
+    "documents": [
+      "Quantum_Cloud_Systems_Income_Statement_Q3_2025.pdf",
+      "Quantum_Cloud_Systems_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 2.45,
+      "revenueGrowthYoY": 10.2,
+      "cashBalance": 6.75,
+      "interestCoverageRatio": 2.94
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-9fdb6d20",
+    "borrowerId": "BRW-83f61b68",
+    "borrowerName": "NovaTech Solutions",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-11",
+    "receivedDate": "2025-01-12T10:00:00Z",
+    "documents": [
+      "NovaTech_Solutions_Income_Statement_Q4_2024.pdf",
+      "NovaTech_Solutions_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 3.9,
+      "cashBalance": 5.05,
+      "debtToEBITDA": 3.16,
+      "revenueGrowthYoY": 11.56
+    },
+    "extractionConfidence": 0.9,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-93027d6d",
+    "borrowerId": "BRW-83f61b68",
+    "borrowerName": "NovaTech Solutions",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-05-01",
+    "receivedDate": "2025-05-01T12:00:00Z",
+    "documents": [
+      "NovaTech_Solutions_Income_Statement_Q1_2025.pdf",
+      "NovaTech_Solutions_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 3.63,
+      "cashBalance": 4.67,
+      "debtToEBITDA": 3.13,
+      "revenueGrowthYoY": 11.1
+    },
+    "extractionConfidence": 0.85,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-4640c51a",
+    "borrowerId": "BRW-83f61b68",
+    "borrowerName": "NovaTech Solutions",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-31",
+    "receivedDate": "2025-07-31T14:00:00Z",
+    "documents": [
+      "NovaTech_Solutions_Income_Statement_Q2_2025.pdf",
+      "NovaTech_Solutions_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 3.57,
+      "cashBalance": 4.64,
+      "debtToEBITDA": 2.93,
+      "revenueGrowthYoY": 12.44
+    },
+    "extractionConfidence": 0.87,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-9ddbe198",
+    "borrowerId": "BRW-83f61b68",
+    "borrowerName": "NovaTech Solutions",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-18",
+    "receivedDate": "2025-10-18T16:00:00Z",
+    "documents": [
+      "NovaTech_Solutions_Income_Statement_Q3_2025.pdf",
+      "NovaTech_Solutions_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 3.49,
+      "cashBalance": 4.07,
+      "debtToEBITDA": 2.91,
+      "revenueGrowthYoY": 10.77
+    },
+    "extractionConfidence": 0.91,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-03c2ccf7",
+    "borrowerId": "BRW-ff73de88",
+    "borrowerName": "Veridian Data Labs",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-23",
+    "receivedDate": "2025-01-24T21:00:00Z",
+    "documents": [
+      "Veridian_Data_Labs_Income_Statement_Q4_2024.pdf",
+      "Veridian_Data_Labs_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.08,
+      "interestCoverageRatio": 3.99,
+      "revenueGrowthYoY": 11.23
+    },
+    "extractionConfidence": 0.91,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-d3a1fd4c",
+    "borrowerId": "BRW-ff73de88",
+    "borrowerName": "Veridian Data Labs",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-28",
+    "receivedDate": "2025-04-28T09:00:00Z",
+    "documents": [
+      "Veridian_Data_Labs_Income_Statement_Q1_2025.pdf",
+      "Veridian_Data_Labs_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.4,
+      "interestCoverageRatio": 4.49,
+      "revenueGrowthYoY": 13.02
+    },
+    "extractionConfidence": 0.94,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-10659055",
+    "borrowerId": "BRW-ff73de88",
+    "borrowerName": "Veridian Data Labs",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-04",
+    "receivedDate": "2025-08-04T16:00:00Z",
+    "documents": [
+      "Veridian_Data_Labs_Income_Statement_Q2_2025.pdf",
+      "Veridian_Data_Labs_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 2.81,
+      "interestCoverageRatio": 4.75,
+      "revenueGrowthYoY": 10.35
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-cf6ba4ad",
+    "borrowerId": "BRW-ff73de88",
+    "borrowerName": "Veridian Data Labs",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-11-02",
+    "receivedDate": "2025-11-02T10:00:00Z",
+    "documents": [
+      "Veridian_Data_Labs_Income_Statement_Q3_2025.pdf",
+      "Veridian_Data_Labs_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 2.69,
+      "interestCoverageRatio": 3.44,
+      "revenueGrowthYoY": 11.32
+    },
+    "extractionConfidence": 0.87,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-9cc6fba5",
+    "borrowerId": "BRW-3c989962",
+    "borrowerName": "CyberPeak Technologies",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-07",
+    "receivedDate": "2025-02-08T17:00:00Z",
+    "documents": [
+      "CyberPeak_Technologies_Income_Statement_Q4_2024.pdf",
+      "CyberPeak_Technologies_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 4.24,
+      "cashBalance": 5.08,
+      "revenueGrowthYoY": 11.91
+    },
+    "extractionConfidence": 0.89,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-b20a7224",
+    "borrowerId": "BRW-3c989962",
+    "borrowerName": "CyberPeak Technologies",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-27",
+    "receivedDate": "2025-04-28T13:00:00Z",
+    "documents": [
+      "CyberPeak_Technologies_Income_Statement_Q1_2025.pdf",
+      "CyberPeak_Technologies_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 4.01,
+      "cashBalance": 4.76,
+      "revenueGrowthYoY": 11.16
+    },
+    "extractionConfidence": 0.88,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-31aa285c",
+    "borrowerId": "BRW-3c989962",
+    "borrowerName": "CyberPeak Technologies",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-18",
+    "receivedDate": "2025-07-19T07:00:00Z",
+    "documents": [
+      "CyberPeak_Technologies_Income_Statement_Q2_2025.pdf",
+      "CyberPeak_Technologies_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 4.4,
+      "cashBalance": 4.76,
+      "revenueGrowthYoY": 11.86
+    },
+    "extractionConfidence": 0.88,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-79e55f98",
+    "borrowerId": "BRW-3c989962",
+    "borrowerName": "CyberPeak Technologies",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-21",
+    "receivedDate": "2025-10-22T12:00:00Z",
+    "documents": [
+      "CyberPeak_Technologies_Income_Statement_Q3_2025.pdf",
+      "CyberPeak_Technologies_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 4.26,
+      "cashBalance": 5.12,
+      "revenueGrowthYoY": 11.38
+    },
+    "extractionConfidence": 0.9,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-7270dfb0",
+    "borrowerId": "BRW-b5328d94",
+    "borrowerName": "Helios Digital Inc",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-21",
+    "receivedDate": "2025-01-22T20:00:00Z",
+    "documents": [
+      "Helios_Digital_Inc_Income_Statement_Q4_2024.pdf",
+      "Helios_Digital_Inc_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 4.54,
+      "debtToEBITDA": 2.47,
+      "cashBalance": 7.98
+    },
+    "extractionConfidence": 0.93,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-cde9e455",
+    "borrowerId": "BRW-b5328d94",
+    "borrowerName": "Helios Digital Inc",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-15",
+    "receivedDate": "2025-04-15T19:00:00Z",
+    "documents": [
+      "Helios_Digital_Inc_Income_Statement_Q1_2025.pdf",
+      "Helios_Digital_Inc_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 3.67,
+      "debtToEBITDA": 3.19,
+      "cashBalance": 7.73
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-454ca59e",
+    "borrowerId": "BRW-b5328d94",
+    "borrowerName": "Helios Digital Inc",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-07",
+    "receivedDate": "2025-08-07T06:00:00Z",
+    "documents": [
+      "Helios_Digital_Inc_Income_Statement_Q2_2025.pdf",
+      "Helios_Digital_Inc_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 3.7,
+      "debtToEBITDA": 2.6,
+      "cashBalance": 8.14
+    },
+    "extractionConfidence": 0.87,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-a5250d64",
+    "borrowerId": "BRW-b5328d94",
+    "borrowerName": "Helios Digital Inc",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-15",
+    "receivedDate": "2025-10-16T17:00:00Z",
+    "documents": [
+      "Helios_Digital_Inc_Income_Statement_Q3_2025.pdf",
+      "Helios_Digital_Inc_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 4.32,
+      "debtToEBITDA": 2.68,
+      "cashBalance": 8.14
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-02767ee5",
+    "borrowerId": "BRW-f33094ab",
+    "borrowerName": "Prism Analytics Group",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-06",
+    "receivedDate": "2025-02-06T05:00:00Z",
+    "documents": [
+      "Prism_Analytics_Group_Income_Statement_Q4_2024.pdf",
+      "Prism_Analytics_Group_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "cashBalance": 5.71,
+      "revenueGrowthYoY": 12.11,
+      "debtToEBITDA": 2.68,
+      "interestCoverageRatio": 4.88
+    },
+    "extractionConfidence": 0.94,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-9f22aec4",
+    "borrowerId": "BRW-f33094ab",
+    "borrowerName": "Prism Analytics Group",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-29",
+    "receivedDate": "2025-04-30T18:00:00Z",
+    "documents": [
+      "Prism_Analytics_Group_Income_Statement_Q1_2025.pdf",
+      "Prism_Analytics_Group_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "cashBalance": 6.5,
+      "revenueGrowthYoY": 14.7,
+      "debtToEBITDA": 3.4,
+      "interestCoverageRatio": 5.37
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-25c97229",
+    "borrowerId": "BRW-f33094ab",
+    "borrowerName": "Prism Analytics Group",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-26",
+    "receivedDate": "2025-07-27T05:00:00Z",
+    "documents": [
+      "Prism_Analytics_Group_Income_Statement_Q2_2025.pdf",
+      "Prism_Analytics_Group_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "cashBalance": 6.55,
+      "revenueGrowthYoY": 11.35,
+      "debtToEBITDA": 2.24,
+      "interestCoverageRatio": 5.01
+    },
+    "extractionConfidence": 0.94,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-a4e49fea",
+    "borrowerId": "BRW-f33094ab",
+    "borrowerName": "Prism Analytics Group",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-11-09",
+    "receivedDate": "2025-11-11T00:00:00Z",
+    "documents": [
+      "Prism_Analytics_Group_Income_Statement_Q3_2025.pdf",
+      "Prism_Analytics_Group_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "cashBalance": 7.27,
+      "revenueGrowthYoY": 10.85,
+      "debtToEBITDA": 2.46,
+      "interestCoverageRatio": 3.94
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-80578451",
+    "borrowerId": "BRW-8a78104b",
+    "borrowerName": "Nexus Platform Corp",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-07",
+    "receivedDate": "2025-02-08T07:00:00Z",
+    "documents": [
+      "Nexus_Platform_Corp_Income_Statement_Q4_2024.pdf",
+      "Nexus_Platform_Corp_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "revenueGrowthYoY": 11.8,
+      "debtToEBITDA": 2.19,
+      "interestCoverageRatio": 3.62,
+      "cashBalance": 6.4
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-54ce5a52",
+    "borrowerId": "BRW-8a78104b",
+    "borrowerName": "Nexus Platform Corp",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-18",
+    "receivedDate": "2025-04-19T16:00:00Z",
+    "documents": [
+      "Nexus_Platform_Corp_Income_Statement_Q1_2025.pdf",
+      "Nexus_Platform_Corp_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "revenueGrowthYoY": 10.12,
+      "debtToEBITDA": 3.14,
+      "interestCoverageRatio": 4.3,
+      "cashBalance": 5.42
+    },
+    "extractionConfidence": 0.88,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-3e0f7c30",
+    "borrowerId": "BRW-8a78104b",
+    "borrowerName": "Nexus Platform Corp",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-19",
+    "receivedDate": "2025-07-20T05:00:00Z",
+    "documents": [
+      "Nexus_Platform_Corp_Income_Statement_Q2_2025.pdf",
+      "Nexus_Platform_Corp_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "revenueGrowthYoY": 12.14,
+      "debtToEBITDA": 2.35,
+      "interestCoverageRatio": 4.24,
+      "cashBalance": 4.81
+    },
+    "extractionConfidence": 0.94,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-2945f707",
+    "borrowerId": "BRW-8a78104b",
+    "borrowerName": "Nexus Platform Corp",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-11-06",
+    "receivedDate": "2025-11-06T21:00:00Z",
+    "documents": [
+      "Nexus_Platform_Corp_Income_Statement_Q3_2025.pdf",
+      "Nexus_Platform_Corp_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "revenueGrowthYoY": 13.16,
+      "debtToEBITDA": 2.85,
+      "interestCoverageRatio": 4.28,
+      "cashBalance": 6.77
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-efb2f73a",
+    "borrowerId": "BRW-98db2c0f",
+    "borrowerName": "Orion SaaS Holdings",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-14",
+    "receivedDate": "2025-01-15T21:00:00Z",
+    "documents": [
+      "Orion_SaaS_Holdings_Income_Statement_Q4_2024.pdf",
+      "Orion_SaaS_Holdings_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.79,
+      "interestCoverageRatio": 3.43,
+      "cashBalance": 5.2,
+      "revenueGrowthYoY": 10.43
+    },
+    "extractionConfidence": 0.96,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-28c590ab",
+    "borrowerId": "BRW-98db2c0f",
+    "borrowerName": "Orion SaaS Holdings",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-23",
+    "receivedDate": "2025-04-24T10:00:00Z",
+    "documents": [
+      "Orion_SaaS_Holdings_Income_Statement_Q1_2025.pdf",
+      "Orion_SaaS_Holdings_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.84,
+      "interestCoverageRatio": 3.41,
+      "cashBalance": 5.44,
+      "revenueGrowthYoY": 10.15
+    },
+    "extractionConfidence": 0.88,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-62a2b5bf",
+    "borrowerId": "BRW-98db2c0f",
+    "borrowerName": "Orion SaaS Holdings",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-12",
+    "receivedDate": "2025-07-13T05:00:00Z",
+    "documents": [
+      "Orion_SaaS_Holdings_Income_Statement_Q2_2025.pdf",
+      "Orion_SaaS_Holdings_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.69,
+      "interestCoverageRatio": 3.37,
+      "cashBalance": 5.03,
+      "revenueGrowthYoY": 9.66
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-c3ed5826",
+    "borrowerId": "BRW-98db2c0f",
+    "borrowerName": "Orion SaaS Holdings",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-11-03",
+    "receivedDate": "2025-11-03T09:00:00Z",
+    "documents": [
+      "Orion_SaaS_Holdings_Income_Statement_Q3_2025.pdf",
+      "Orion_SaaS_Holdings_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.71,
+      "interestCoverageRatio": 3.39,
+      "cashBalance": 4.95,
+      "revenueGrowthYoY": 10.61
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-76b5308b",
+    "borrowerId": "BRW-da1a2098",
+    "borrowerName": "TerraCode Systems",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-25",
+    "receivedDate": "2025-01-25T20:00:00Z",
+    "documents": [
+      "TerraCode_Systems_Income_Statement_Q4_2024.pdf",
+      "TerraCode_Systems_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.15,
+      "cashBalance": 5.82,
+      "revenueGrowthYoY": 10.42,
+      "interestCoverageRatio": 3.13
+    },
+    "extractionConfidence": 0.85,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-19741b8a",
+    "borrowerId": "BRW-da1a2098",
+    "borrowerName": "TerraCode Systems",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-21",
+    "receivedDate": "2025-04-21T13:00:00Z",
+    "documents": [
+      "TerraCode_Systems_Income_Statement_Q1_2025.pdf",
+      "TerraCode_Systems_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.31,
+      "cashBalance": 5.89,
+      "revenueGrowthYoY": 10.53,
+      "interestCoverageRatio": 3.1
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-3376d46e",
+    "borrowerId": "BRW-da1a2098",
+    "borrowerName": "TerraCode Systems",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-22",
+    "receivedDate": "2025-07-23T01:00:00Z",
+    "documents": [
+      "TerraCode_Systems_Income_Statement_Q2_2025.pdf",
+      "TerraCode_Systems_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.24,
+      "cashBalance": 5.6,
+      "revenueGrowthYoY": 10.79,
+      "interestCoverageRatio": 3.22
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-d974c2c7",
+    "borrowerId": "BRW-da1a2098",
+    "borrowerName": "TerraCode Systems",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-29",
+    "receivedDate": "2025-10-30T21:00:00Z",
+    "documents": [
+      "TerraCode_Systems_Income_Statement_Q3_2025.pdf",
+      "TerraCode_Systems_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.42,
+      "cashBalance": 5.73,
+      "revenueGrowthYoY": 10.92,
+      "interestCoverageRatio": 3.32
+    },
+    "extractionConfidence": 0.9,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-4b03b523",
+    "borrowerId": "BRW-9ce08f91",
+    "borrowerName": "Lumen Compute Inc",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-06",
+    "receivedDate": "2025-02-06T05:00:00Z",
+    "documents": [
+      "Lumen_Compute_Inc_Income_Statement_Q4_2024.pdf",
+      "Lumen_Compute_Inc_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 2.41,
+      "revenueGrowthYoY": 11.74,
+      "cashBalance": 6.79
+    },
+    "extractionConfidence": 0.93,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-68fb734b",
+    "borrowerId": "BRW-9ce08f91",
+    "borrowerName": "Lumen Compute Inc",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-18",
+    "receivedDate": "2025-04-19T21:00:00Z",
+    "documents": [
+      "Lumen_Compute_Inc_Income_Statement_Q1_2025.pdf",
+      "Lumen_Compute_Inc_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.07,
+      "revenueGrowthYoY": 11.26,
+      "cashBalance": 5.32
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-56d6fd22",
+    "borrowerId": "BRW-9ce08f91",
+    "borrowerName": "Lumen Compute Inc",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-27",
+    "receivedDate": "2025-07-27T02:00:00Z",
+    "documents": [
+      "Lumen_Compute_Inc_Income_Statement_Q2_2025.pdf",
+      "Lumen_Compute_Inc_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 2.41,
+      "revenueGrowthYoY": 10.86,
+      "cashBalance": 5.91
+    },
+    "extractionConfidence": 0.94,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-6a74cfca",
+    "borrowerId": "BRW-9ce08f91",
+    "borrowerName": "Lumen Compute Inc",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-11-02",
+    "receivedDate": "2025-11-02T01:00:00Z",
+    "documents": [
+      "Lumen_Compute_Inc_Income_Statement_Q3_2025.pdf",
+      "Lumen_Compute_Inc_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 2.48,
+      "revenueGrowthYoY": 11.08,
+      "cashBalance": 6.45
+    },
+    "extractionConfidence": 0.89,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-70da6b99",
+    "borrowerId": "BRW-59c4dd29",
+    "borrowerName": "Zephyr Networks Corp",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-19",
+    "receivedDate": "2025-01-20T08:00:00Z",
+    "documents": [
+      "Zephyr_Networks_Corp_Income_Statement_Q4_2024.pdf",
+      "Zephyr_Networks_Corp_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.07,
+      "interestCoverageRatio": 3.68,
+      "cashBalance": 8.2
+    },
+    "extractionConfidence": 0.89,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-9141262c",
+    "borrowerId": "BRW-59c4dd29",
+    "borrowerName": "Zephyr Networks Corp",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-05-06",
+    "receivedDate": "2025-05-06T10:00:00Z",
+    "documents": [
+      "Zephyr_Networks_Corp_Income_Statement_Q1_2025.pdf",
+      "Zephyr_Networks_Corp_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 1.88,
+      "interestCoverageRatio": 4.11,
+      "cashBalance": 6.22
+    },
+    "extractionConfidence": 0.91,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-3ce3113b",
+    "borrowerId": "BRW-59c4dd29",
+    "borrowerName": "Zephyr Networks Corp",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-16",
+    "receivedDate": "2025-07-16T17:00:00Z",
+    "documents": [
+      "Zephyr_Networks_Corp_Income_Statement_Q2_2025.pdf",
+      "Zephyr_Networks_Corp_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 2.85,
+      "interestCoverageRatio": 4.18,
+      "cashBalance": 6.36
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-c484e5d1",
+    "borrowerId": "BRW-59c4dd29",
+    "borrowerName": "Zephyr Networks Corp",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-17",
+    "receivedDate": "2025-10-18T01:00:00Z",
+    "documents": [
+      "Zephyr_Networks_Corp_Income_Statement_Q3_2025.pdf",
+      "Zephyr_Networks_Corp_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 2.79,
+      "interestCoverageRatio": 3.65,
+      "cashBalance": 8.05
+    },
+    "extractionConfidence": 0.85,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-c67b6539",
+    "borrowerId": "BRW-260e5632",
+    "borrowerName": "Arcadia Software Ltd",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-24",
+    "receivedDate": "2025-01-26T00:00:00Z",
+    "documents": [
+      "Arcadia_Software_Ltd_Income_Statement_Q4_2024.pdf",
+      "Arcadia_Software_Ltd_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "revenueGrowthYoY": 16.67,
+      "debtToEBITDA": 2.63,
+      "cashBalance": 8.58
+    },
+    "extractionConfidence": 0.91,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-7edccc37",
+    "borrowerId": "BRW-260e5632",
+    "borrowerName": "Arcadia Software Ltd",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-05-01",
+    "receivedDate": "2025-05-01T20:00:00Z",
+    "documents": [
+      "Arcadia_Software_Ltd_Income_Statement_Q1_2025.pdf",
+      "Arcadia_Software_Ltd_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "revenueGrowthYoY": 17.59,
+      "debtToEBITDA": 2.14,
+      "cashBalance": 7.89
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-36c5f041",
+    "borrowerId": "BRW-260e5632",
+    "borrowerName": "Arcadia Software Ltd",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-27",
+    "receivedDate": "2025-07-28T10:00:00Z",
+    "documents": [
+      "Arcadia_Software_Ltd_Income_Statement_Q2_2025.pdf",
+      "Arcadia_Software_Ltd_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "revenueGrowthYoY": 13.03,
+      "debtToEBITDA": 2.58,
+      "cashBalance": 6.73
+    },
+    "extractionConfidence": 0.9,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-9012c0c4",
+    "borrowerId": "BRW-260e5632",
+    "borrowerName": "Arcadia Software Ltd",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-11",
+    "receivedDate": "2025-10-12T19:00:00Z",
+    "documents": [
+      "Arcadia_Software_Ltd_Income_Statement_Q3_2025.pdf",
+      "Arcadia_Software_Ltd_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "revenueGrowthYoY": 13.56,
+      "debtToEBITDA": 2.08,
+      "cashBalance": 7.63
+    },
+    "extractionConfidence": 0.89,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-96673ef9",
+    "borrowerId": "BRW-24044de6",
+    "borrowerName": "Vertex AI Solutions",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-04",
+    "receivedDate": "2025-02-04T18:00:00Z",
+    "documents": [
+      "Vertex_AI_Solutions_Income_Statement_Q4_2024.pdf",
+      "Vertex_AI_Solutions_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "cashBalance": 5.51,
+      "interestCoverageRatio": 3.38,
+      "debtToEBITDA": 2.99
+    },
+    "extractionConfidence": 0.98,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-6530860b",
+    "borrowerId": "BRW-24044de6",
+    "borrowerName": "Vertex AI Solutions",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-28",
+    "receivedDate": "2025-04-29T21:00:00Z",
+    "documents": [
+      "Vertex_AI_Solutions_Income_Statement_Q1_2025.pdf",
+      "Vertex_AI_Solutions_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "cashBalance": 5.39,
+      "interestCoverageRatio": 3.53,
+      "debtToEBITDA": 3.17
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-9f71e2fb",
+    "borrowerId": "BRW-24044de6",
+    "borrowerName": "Vertex AI Solutions",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-15",
+    "receivedDate": "2025-07-16T08:00:00Z",
+    "documents": [
+      "Vertex_AI_Solutions_Income_Statement_Q2_2025.pdf",
+      "Vertex_AI_Solutions_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "cashBalance": 4.95,
+      "interestCoverageRatio": 3.54,
+      "debtToEBITDA": 3.91
+    },
+    "extractionConfidence": 0.98,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-bdd0eee8",
+    "borrowerId": "BRW-24044de6",
+    "borrowerName": "Vertex AI Solutions",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-30",
+    "receivedDate": "2025-10-30T04:00:00Z",
+    "documents": [
+      "Vertex_AI_Solutions_Income_Statement_Q3_2025.pdf",
+      "Vertex_AI_Solutions_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "cashBalance": 3.51,
+      "interestCoverageRatio": 3.56,
+      "debtToEBITDA": 3.61
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-5100232d",
+    "borrowerId": "BRW-f8b4bce0",
+    "borrowerName": "Pulsar DevOps Inc",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-14",
+    "receivedDate": "2025-01-15T08:00:00Z",
+    "documents": [
+      "Pulsar_DevOps_Inc_Income_Statement_Q4_2024.pdf",
+      "Pulsar_DevOps_Inc_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "cashBalance": 6.96,
+      "debtToEBITDA": 3.81,
+      "interestCoverageRatio": 4.89,
+      "revenueGrowthYoY": 15.79
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-579b79b9",
+    "borrowerId": "BRW-f8b4bce0",
+    "borrowerName": "Pulsar DevOps Inc",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-24",
+    "receivedDate": "2025-04-25T23:00:00Z",
+    "documents": [
+      "Pulsar_DevOps_Inc_Income_Statement_Q1_2025.pdf",
+      "Pulsar_DevOps_Inc_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "cashBalance": 6.84,
+      "debtToEBITDA": 3.35,
+      "interestCoverageRatio": 4.18,
+      "revenueGrowthYoY": 12.47
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-bb68faef",
+    "borrowerId": "BRW-f8b4bce0",
+    "borrowerName": "Pulsar DevOps Inc",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-25",
+    "receivedDate": "2025-07-26T22:00:00Z",
+    "documents": [
+      "Pulsar_DevOps_Inc_Income_Statement_Q2_2025.pdf",
+      "Pulsar_DevOps_Inc_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "cashBalance": 7.54,
+      "debtToEBITDA": 2.73,
+      "interestCoverageRatio": 4.74,
+      "revenueGrowthYoY": 12.76
+    },
+    "extractionConfidence": 0.87,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-705d2268",
+    "borrowerId": "BRW-f8b4bce0",
+    "borrowerName": "Pulsar DevOps Inc",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-21",
+    "receivedDate": "2025-10-21T21:00:00Z",
+    "documents": [
+      "Pulsar_DevOps_Inc_Income_Statement_Q3_2025.pdf",
+      "Pulsar_DevOps_Inc_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "cashBalance": 8.39,
+      "debtToEBITDA": 2.7,
+      "interestCoverageRatio": 4.96,
+      "revenueGrowthYoY": 16.63
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-8a1eb30d",
+    "borrowerId": "BRW-8bbb7e22",
+    "borrowerName": "Meridian Healthcare Group",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-12",
+    "receivedDate": "2025-01-13T10:00:00Z",
+    "documents": [
+      "Meridian_Healthcare_Group_Income_Statement_Q4_2024.pdf",
+      "Meridian_Healthcare_Group_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "ebitda": 12.18,
+      "fixedChargeCoverage": 1.72,
+      "debtToEBITDA": 3.03,
+      "currentRatio": 1.42
+    },
+    "extractionConfidence": 0.85,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-545025eb",
+    "borrowerId": "BRW-8bbb7e22",
+    "borrowerName": "Meridian Healthcare Group",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-30",
+    "receivedDate": "2025-05-01T09:00:00Z",
+    "documents": [
+      "Meridian_Healthcare_Group_Income_Statement_Q1_2025.pdf",
+      "Meridian_Healthcare_Group_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "ebitda": 13.33,
+      "fixedChargeCoverage": 1.65,
+      "debtToEBITDA": 2.59,
+      "currentRatio": 1.7
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-81f57b88",
+    "borrowerId": "BRW-8bbb7e22",
+    "borrowerName": "Meridian Healthcare Group",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-17",
+    "receivedDate": "2025-07-17T21:00:00Z",
+    "documents": [
+      "Meridian_Healthcare_Group_Income_Statement_Q2_2025.pdf",
+      "Meridian_Healthcare_Group_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "ebitda": 15.1,
+      "fixedChargeCoverage": 1.97,
+      "debtToEBITDA": 3.52,
+      "currentRatio": 1.44
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-04ff2182",
+    "borrowerId": "BRW-8bbb7e22",
+    "borrowerName": "Meridian Healthcare Group",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-25",
+    "receivedDate": "2025-10-26T12:00:00Z",
+    "documents": [
+      "Meridian_Healthcare_Group_Income_Statement_Q3_2025.pdf",
+      "Meridian_Healthcare_Group_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "ebitda": 12.17,
+      "fixedChargeCoverage": 1.71,
+      "debtToEBITDA": 3.29,
+      "currentRatio": 1.4
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-c76aeb48",
+    "borrowerId": "BRW-e7b9475c",
+    "borrowerName": "Vanguard Pharma Inc",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-31",
+    "receivedDate": "2025-01-31T05:00:00Z",
+    "documents": [
+      "Vanguard_Pharma_Inc_Income_Statement_Q4_2024.pdf",
+      "Vanguard_Pharma_Inc_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.54,
+      "ebitda": 13.9,
+      "currentRatio": 1.42,
+      "debtToEBITDA": 2.25
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-544103d9",
+    "borrowerId": "BRW-e7b9475c",
+    "borrowerName": "Vanguard Pharma Inc",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-16",
+    "receivedDate": "2025-04-16T07:00:00Z",
+    "documents": [
+      "Vanguard_Pharma_Inc_Income_Statement_Q1_2025.pdf",
+      "Vanguard_Pharma_Inc_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.53,
+      "ebitda": 12.59,
+      "currentRatio": 1.54,
+      "debtToEBITDA": 2.96
+    },
+    "extractionConfidence": 0.93,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-59ca88f0",
+    "borrowerId": "BRW-e7b9475c",
+    "borrowerName": "Vanguard Pharma Inc",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-28",
+    "receivedDate": "2025-07-28T17:00:00Z",
+    "documents": [
+      "Vanguard_Pharma_Inc_Income_Statement_Q2_2025.pdf",
+      "Vanguard_Pharma_Inc_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.54,
+      "ebitda": 10.72,
+      "currentRatio": 1.74,
+      "debtToEBITDA": 2.23
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-67d58bc7",
+    "borrowerId": "BRW-e7b9475c",
+    "borrowerName": "Vanguard Pharma Inc",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-30",
+    "receivedDate": "2025-10-31T08:00:00Z",
+    "documents": [
+      "Vanguard_Pharma_Inc_Income_Statement_Q3_2025.pdf",
+      "Vanguard_Pharma_Inc_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 2.14,
+      "ebitda": 13.43,
+      "currentRatio": 1.59,
+      "debtToEBITDA": 3.19
+    },
+    "extractionConfidence": 0.9,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-ce60380f",
+    "borrowerId": "BRW-872ae292",
+    "borrowerName": "BioStar Therapeutics",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-02",
+    "receivedDate": "2025-02-03T03:00:00Z",
+    "documents": [
+      "BioStar_Therapeutics_Income_Statement_Q4_2024.pdf",
+      "BioStar_Therapeutics_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.96,
+      "ebitda": 16.44,
+      "currentRatio": 1.3,
+      "debtToEBITDA": 2.94
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-6e915ea7",
+    "borrowerId": "BRW-872ae292",
+    "borrowerName": "BioStar Therapeutics",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-05-03",
+    "receivedDate": "2025-05-03T05:00:00Z",
+    "documents": [
+      "BioStar_Therapeutics_Income_Statement_Q1_2025.pdf",
+      "BioStar_Therapeutics_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.97,
+      "ebitda": 12.51,
+      "currentRatio": 1.39,
+      "debtToEBITDA": 2.8
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-ddf9fbde",
+    "borrowerId": "BRW-872ae292",
+    "borrowerName": "BioStar Therapeutics",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-17",
+    "receivedDate": "2025-07-18T11:00:00Z",
+    "documents": [
+      "BioStar_Therapeutics_Income_Statement_Q2_2025.pdf",
+      "BioStar_Therapeutics_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.68,
+      "ebitda": 13.14,
+      "currentRatio": 1.64,
+      "debtToEBITDA": 2.87
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-a04355ce",
+    "borrowerId": "BRW-872ae292",
+    "borrowerName": "BioStar Therapeutics",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-27",
+    "receivedDate": "2025-10-29T00:00:00Z",
+    "documents": [
+      "BioStar_Therapeutics_Income_Statement_Q3_2025.pdf",
+      "BioStar_Therapeutics_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.79,
+      "ebitda": 16.17,
+      "currentRatio": 1.71,
+      "debtToEBITDA": 2.88
+    },
+    "extractionConfidence": 0.94,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-de27bfe4",
+    "borrowerId": "BRW-08bea9a1",
+    "borrowerName": "CrestLine Medical Systems",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-01",
+    "receivedDate": "2025-02-02T19:00:00Z",
+    "documents": [
+      "CrestLine_Medical_Systems_Income_Statement_Q4_2024.pdf",
+      "CrestLine_Medical_Systems_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "currentRatio": 1.42,
+      "debtToEBITDA": 2.41,
+      "fixedChargeCoverage": 1.62
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-2baaaece",
+    "borrowerId": "BRW-08bea9a1",
+    "borrowerName": "CrestLine Medical Systems",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-26",
+    "receivedDate": "2025-04-26T22:00:00Z",
+    "documents": [
+      "CrestLine_Medical_Systems_Income_Statement_Q1_2025.pdf",
+      "CrestLine_Medical_Systems_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "currentRatio": 1.54,
+      "debtToEBITDA": 3.09,
+      "fixedChargeCoverage": 1.51
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-99ad79a9",
+    "borrowerId": "BRW-08bea9a1",
+    "borrowerName": "CrestLine Medical Systems",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-07",
+    "receivedDate": "2025-08-07T21:00:00Z",
+    "documents": [
+      "CrestLine_Medical_Systems_Income_Statement_Q2_2025.pdf",
+      "CrestLine_Medical_Systems_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "currentRatio": 1.49,
+      "debtToEBITDA": 3.82,
+      "fixedChargeCoverage": 1.64
+    },
+    "extractionConfidence": 0.9,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-56033e1d",
+    "borrowerId": "BRW-08bea9a1",
+    "borrowerName": "CrestLine Medical Systems",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-30",
+    "receivedDate": "2025-10-31T04:00:00Z",
+    "documents": [
+      "CrestLine_Medical_Systems_Income_Statement_Q3_2025.pdf",
+      "CrestLine_Medical_Systems_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "currentRatio": 1.63,
+      "debtToEBITDA": 2.76,
+      "fixedChargeCoverage": 1.32
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-ffe7aa5e",
+    "borrowerId": "BRW-d48c8b42",
+    "borrowerName": "Pinnacle Health Partners",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-03",
+    "receivedDate": "2025-02-04T12:00:00Z",
+    "documents": [
+      "Pinnacle_Health_Partners_Income_Statement_Q4_2024.pdf",
+      "Pinnacle_Health_Partners_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.78,
+      "fixedChargeCoverage": 1.34,
+      "currentRatio": 1.55,
+      "ebitda": 12.35
+    },
+    "extractionConfidence": 0.9,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-e95c564b",
+    "borrowerId": "BRW-d48c8b42",
+    "borrowerName": "Pinnacle Health Partners",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-05-03",
+    "receivedDate": "2025-05-03T03:00:00Z",
+    "documents": [
+      "Pinnacle_Health_Partners_Income_Statement_Q1_2025.pdf",
+      "Pinnacle_Health_Partners_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.86,
+      "fixedChargeCoverage": 1.44,
+      "currentRatio": 1.42,
+      "ebitda": 13.8
+    },
+    "extractionConfidence": 0.89,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-80060771",
+    "borrowerId": "BRW-d48c8b42",
+    "borrowerName": "Pinnacle Health Partners",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-19",
+    "receivedDate": "2025-07-19T15:00:00Z",
+    "documents": [
+      "Pinnacle_Health_Partners_Income_Statement_Q2_2025.pdf",
+      "Pinnacle_Health_Partners_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 2.86,
+      "fixedChargeCoverage": 1.35,
+      "currentRatio": 1.49,
+      "ebitda": 13.67
+    },
+    "extractionConfidence": 0.96,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-ed1cfcac",
+    "borrowerId": "BRW-d48c8b42",
+    "borrowerName": "Pinnacle Health Partners",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-11-08",
+    "receivedDate": "2025-11-09T12:00:00Z",
+    "documents": [
+      "Pinnacle_Health_Partners_Income_Statement_Q3_2025.pdf",
+      "Pinnacle_Health_Partners_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.25,
+      "fixedChargeCoverage": 1.43,
+      "currentRatio": 1.43,
+      "ebitda": 8.17
+    },
+    "extractionConfidence": 0.91,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-8feec919",
+    "borrowerId": "BRW-6102a7ce",
+    "borrowerName": "Aether Diagnostics",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-14",
+    "receivedDate": "2025-01-14T17:00:00Z",
+    "documents": [
+      "Aether_Diagnostics_Income_Statement_Q4_2024.pdf",
+      "Aether_Diagnostics_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "currentRatio": 1.12,
+      "debtToEBITDA": 3.87,
+      "fixedChargeCoverage": 1.55
+    },
+    "extractionConfidence": 0.96,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-555fbf88",
+    "borrowerId": "BRW-6102a7ce",
+    "borrowerName": "Aether Diagnostics",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-12",
+    "receivedDate": "2025-04-13T13:00:00Z",
+    "documents": [
+      "Aether_Diagnostics_Income_Statement_Q1_2025.pdf",
+      "Aether_Diagnostics_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "currentRatio": 1.13,
+      "debtToEBITDA": 4.38,
+      "fixedChargeCoverage": 1.73
+    },
+    "extractionConfidence": 0.94,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-bc480920",
+    "borrowerId": "BRW-6102a7ce",
+    "borrowerName": "Aether Diagnostics",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-04",
+    "receivedDate": "2025-08-05T07:00:00Z",
+    "documents": [
+      "Aether_Diagnostics_Income_Statement_Q2_2025.pdf",
+      "Aether_Diagnostics_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "currentRatio": 1.07,
+      "debtToEBITDA": 4.24,
+      "fixedChargeCoverage": 1.71
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-b6740f8d",
+    "borrowerId": "BRW-6102a7ce",
+    "borrowerName": "Aether Diagnostics",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-11-08",
+    "receivedDate": "2025-11-08T07:00:00Z",
+    "documents": [
+      "Aether_Diagnostics_Income_Statement_Q3_2025.pdf",
+      "Aether_Diagnostics_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "currentRatio": 0.85,
+      "debtToEBITDA": 3.45,
+      "fixedChargeCoverage": 1.73
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-26844275",
+    "borrowerId": "BRW-af8cbace",
+    "borrowerName": "Summit BioSciences",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-03",
+    "receivedDate": "2025-02-03T04:00:00Z",
+    "documents": [
+      "Summit_BioSciences_Income_Statement_Q4_2024.pdf",
+      "Summit_BioSciences_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.69,
+      "currentRatio": 1.37,
+      "ebitda": 11.57,
+      "debtToEBITDA": 2.85
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-d543e19c",
+    "borrowerId": "BRW-af8cbace",
+    "borrowerName": "Summit BioSciences",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-13",
+    "receivedDate": "2025-04-13T15:00:00Z",
+    "documents": [
+      "Summit_BioSciences_Income_Statement_Q1_2025.pdf",
+      "Summit_BioSciences_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.63,
+      "currentRatio": 1.53,
+      "ebitda": 11.68,
+      "debtToEBITDA": 3.08
+    },
+    "extractionConfidence": 0.93,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-13ed4d7f",
+    "borrowerId": "BRW-af8cbace",
+    "borrowerName": "Summit BioSciences",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-11",
+    "receivedDate": "2025-07-11T20:00:00Z",
+    "documents": [
+      "Summit_BioSciences_Income_Statement_Q2_2025.pdf",
+      "Summit_BioSciences_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.56,
+      "currentRatio": 1.37,
+      "ebitda": 10.85,
+      "debtToEBITDA": 2.72
+    },
+    "extractionConfidence": 0.94,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-0699badb",
+    "borrowerId": "BRW-af8cbace",
+    "borrowerName": "Summit BioSciences",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-14",
+    "receivedDate": "2025-10-14T04:00:00Z",
+    "documents": [
+      "Summit_BioSciences_Income_Statement_Q3_2025.pdf",
+      "Summit_BioSciences_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.61,
+      "currentRatio": 1.15,
+      "ebitda": 11.78,
+      "debtToEBITDA": 3.22
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-104f93f8",
+    "borrowerId": "BRW-cb97484e",
+    "borrowerName": "NovaCare Solutions Inc",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-17",
+    "receivedDate": "2025-01-18T04:00:00Z",
+    "documents": [
+      "NovaCare_Solutions_Inc_Income_Statement_Q4_2024.pdf",
+      "NovaCare_Solutions_Inc_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "ebitda": 11.74,
+      "fixedChargeCoverage": 1.23,
+      "debtToEBITDA": 2.62,
+      "currentRatio": 1.03
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-20d8a3e1",
+    "borrowerId": "BRW-cb97484e",
+    "borrowerName": "NovaCare Solutions Inc",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-11",
+    "receivedDate": "2025-04-12T12:00:00Z",
+    "documents": [
+      "NovaCare_Solutions_Inc_Income_Statement_Q1_2025.pdf",
+      "NovaCare_Solutions_Inc_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "ebitda": 12.03,
+      "fixedChargeCoverage": 1.15,
+      "debtToEBITDA": 3.07,
+      "currentRatio": 1.19
+    },
+    "extractionConfidence": 0.87,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-ca957899",
+    "borrowerId": "BRW-cb97484e",
+    "borrowerName": "NovaCare Solutions Inc",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-14",
+    "receivedDate": "2025-07-15T07:00:00Z",
+    "documents": [
+      "NovaCare_Solutions_Inc_Income_Statement_Q2_2025.pdf",
+      "NovaCare_Solutions_Inc_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "ebitda": 12.45,
+      "fixedChargeCoverage": 1.25,
+      "debtToEBITDA": 3.25,
+      "currentRatio": 1.06
+    },
+    "extractionConfidence": 0.93,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-5e9f94b3",
+    "borrowerId": "BRW-cb97484e",
+    "borrowerName": "NovaCare Solutions Inc",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-11-02",
+    "receivedDate": "2025-11-03T10:00:00Z",
+    "documents": [
+      "NovaCare_Solutions_Inc_Income_Statement_Q3_2025.pdf",
+      "NovaCare_Solutions_Inc_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "ebitda": 8.36,
+      "fixedChargeCoverage": 1.14,
+      "debtToEBITDA": 3.41,
+      "currentRatio": 1.09
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-ec186773",
+    "borrowerId": "BRW-96d37a1f",
+    "borrowerName": "Radiant Health Corp",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-12",
+    "receivedDate": "2025-01-12T08:00:00Z",
+    "documents": [
+      "Radiant_Health_Corp_Income_Statement_Q4_2024.pdf",
+      "Radiant_Health_Corp_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "ebitda": 15.19,
+      "currentRatio": 1.32,
+      "fixedChargeCoverage": 1.61
+    },
+    "extractionConfidence": 0.89,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-cea903e2",
+    "borrowerId": "BRW-96d37a1f",
+    "borrowerName": "Radiant Health Corp",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-29",
+    "receivedDate": "2025-04-30T18:00:00Z",
+    "documents": [
+      "Radiant_Health_Corp_Income_Statement_Q1_2025.pdf",
+      "Radiant_Health_Corp_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "ebitda": 11.77,
+      "currentRatio": 1.26,
+      "fixedChargeCoverage": 2.01
+    },
+    "extractionConfidence": 0.93,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-cff1c76b",
+    "borrowerId": "BRW-96d37a1f",
+    "borrowerName": "Radiant Health Corp",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-04",
+    "receivedDate": "2025-08-05T05:00:00Z",
+    "documents": [
+      "Radiant_Health_Corp_Income_Statement_Q2_2025.pdf",
+      "Radiant_Health_Corp_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "ebitda": 14.93,
+      "currentRatio": 1.33,
+      "fixedChargeCoverage": 1.97
+    },
+    "extractionConfidence": 0.88,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-06d7d7e1",
+    "borrowerId": "BRW-96d37a1f",
+    "borrowerName": "Radiant Health Corp",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-31",
+    "receivedDate": "2025-11-01T00:00:00Z",
+    "documents": [
+      "Radiant_Health_Corp_Income_Statement_Q3_2025.pdf",
+      "Radiant_Health_Corp_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "ebitda": 12.46,
+      "currentRatio": 1.48,
+      "fixedChargeCoverage": 1.44
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-3dd357ca",
+    "borrowerId": "BRW-20b99c85",
+    "borrowerName": "Beacon Medtech Ltd",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-17",
+    "receivedDate": "2025-01-18T16:00:00Z",
+    "documents": [
+      "Beacon_Medtech_Ltd_Income_Statement_Q4_2024.pdf",
+      "Beacon_Medtech_Ltd_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.22,
+      "ebitda": 10.24,
+      "currentRatio": 1.09
+    },
+    "extractionConfidence": 0.85,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-48116ec8",
+    "borrowerId": "BRW-20b99c85",
+    "borrowerName": "Beacon Medtech Ltd",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-05-02",
+    "receivedDate": "2025-05-02T08:00:00Z",
+    "documents": [
+      "Beacon_Medtech_Ltd_Income_Statement_Q1_2025.pdf",
+      "Beacon_Medtech_Ltd_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.15,
+      "ebitda": 9.83,
+      "currentRatio": 1.04
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-1f876d46",
+    "borrowerId": "BRW-20b99c85",
+    "borrowerName": "Beacon Medtech Ltd",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-16",
+    "receivedDate": "2025-07-16T14:00:00Z",
+    "documents": [
+      "Beacon_Medtech_Ltd_Income_Statement_Q2_2025.pdf",
+      "Beacon_Medtech_Ltd_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.18,
+      "ebitda": 10.12,
+      "currentRatio": 1.06
+    },
+    "extractionConfidence": 0.93,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-11a7b031",
+    "borrowerId": "BRW-20b99c85",
+    "borrowerName": "Beacon Medtech Ltd",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-14",
+    "receivedDate": "2025-10-15T21:00:00Z",
+    "documents": [
+      "Beacon_Medtech_Ltd_Income_Statement_Q3_2025.pdf",
+      "Beacon_Medtech_Ltd_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.2,
+      "ebitda": 9.37,
+      "currentRatio": 1.06
+    },
+    "extractionConfidence": 0.94,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-421cca04",
+    "borrowerId": "BRW-043f5a10",
+    "borrowerName": "Lumina Genomics Corp",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-11",
+    "receivedDate": "2025-01-11T17:00:00Z",
+    "documents": [
+      "Lumina_Genomics_Corp_Income_Statement_Q4_2024.pdf",
+      "Lumina_Genomics_Corp_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.49,
+      "ebitda": 11.48,
+      "currentRatio": 1.43
+    },
+    "extractionConfidence": 0.93,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-2e98debc",
+    "borrowerId": "BRW-043f5a10",
+    "borrowerName": "Lumina Genomics Corp",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-11",
+    "receivedDate": "2025-04-12T06:00:00Z",
+    "documents": [
+      "Lumina_Genomics_Corp_Income_Statement_Q1_2025.pdf",
+      "Lumina_Genomics_Corp_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.8,
+      "ebitda": 10.2,
+      "currentRatio": 1.24
+    },
+    "extractionConfidence": 0.89,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-6e81653e",
+    "borrowerId": "BRW-043f5a10",
+    "borrowerName": "Lumina Genomics Corp",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-06",
+    "receivedDate": "2025-08-07T19:00:00Z",
+    "documents": [
+      "Lumina_Genomics_Corp_Income_Statement_Q2_2025.pdf",
+      "Lumina_Genomics_Corp_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.61,
+      "ebitda": 10.66,
+      "currentRatio": 1.2
+    },
+    "extractionConfidence": 0.96,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-73a1a16c",
+    "borrowerId": "BRW-043f5a10",
+    "borrowerName": "Lumina Genomics Corp",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-22",
+    "receivedDate": "2025-10-22T15:00:00Z",
+    "documents": [
+      "Lumina_Genomics_Corp_Income_Statement_Q3_2025.pdf",
+      "Lumina_Genomics_Corp_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 2.0,
+      "ebitda": 12.51,
+      "currentRatio": 1.4
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-6d1d4d69",
+    "borrowerId": "BRW-654fd21e",
+    "borrowerName": "TrueNorth Pharma Inc",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-25",
+    "receivedDate": "2025-01-26T15:00:00Z",
+    "documents": [
+      "TrueNorth_Pharma_Inc_Income_Statement_Q4_2024.pdf",
+      "TrueNorth_Pharma_Inc_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "ebitda": 13.97,
+      "debtToEBITDA": 2.64,
+      "fixedChargeCoverage": 1.58
+    },
+    "extractionConfidence": 0.91,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-751c1c8d",
+    "borrowerId": "BRW-654fd21e",
+    "borrowerName": "TrueNorth Pharma Inc",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-05-09",
+    "receivedDate": "2025-05-10T22:00:00Z",
+    "documents": [
+      "TrueNorth_Pharma_Inc_Income_Statement_Q1_2025.pdf",
+      "TrueNorth_Pharma_Inc_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "ebitda": 11.36,
+      "debtToEBITDA": 2.74,
+      "fixedChargeCoverage": 1.6
+    },
+    "extractionConfidence": 0.89,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-a8312b7b",
+    "borrowerId": "BRW-654fd21e",
+    "borrowerName": "TrueNorth Pharma Inc",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-22",
+    "receivedDate": "2025-07-24T00:00:00Z",
+    "documents": [
+      "TrueNorth_Pharma_Inc_Income_Statement_Q2_2025.pdf",
+      "TrueNorth_Pharma_Inc_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "ebitda": 12.06,
+      "debtToEBITDA": 2.9,
+      "fixedChargeCoverage": 1.49
+    },
+    "extractionConfidence": 0.93,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-08d3aa5c",
+    "borrowerId": "BRW-654fd21e",
+    "borrowerName": "TrueNorth Pharma Inc",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-17",
+    "receivedDate": "2025-10-18T09:00:00Z",
+    "documents": [
+      "TrueNorth_Pharma_Inc_Income_Statement_Q3_2025.pdf",
+      "TrueNorth_Pharma_Inc_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "ebitda": 12.66,
+      "debtToEBITDA": 2.44,
+      "fixedChargeCoverage": 1.44
+    },
+    "extractionConfidence": 0.9,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-e42a80a0",
+    "borrowerId": "BRW-c8323c55",
+    "borrowerName": "Catalys Health Group",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-05",
+    "receivedDate": "2025-02-05T02:00:00Z",
+    "documents": [
+      "Catalys_Health_Group_Income_Statement_Q4_2024.pdf",
+      "Catalys_Health_Group_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "ebitda": 16.41,
+      "debtToEBITDA": 4.09,
+      "fixedChargeCoverage": 1.71
+    },
+    "extractionConfidence": 0.89,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-69cec9c3",
+    "borrowerId": "BRW-c8323c55",
+    "borrowerName": "Catalys Health Group",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-22",
+    "receivedDate": "2025-04-23T19:00:00Z",
+    "documents": [
+      "Catalys_Health_Group_Income_Statement_Q1_2025.pdf",
+      "Catalys_Health_Group_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "ebitda": 12.2,
+      "debtToEBITDA": 3.71,
+      "fixedChargeCoverage": 1.92
+    },
+    "extractionConfidence": 0.94,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-78b2f30c",
+    "borrowerId": "BRW-c8323c55",
+    "borrowerName": "Catalys Health Group",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-06",
+    "receivedDate": "2025-08-07T17:00:00Z",
+    "documents": [
+      "Catalys_Health_Group_Income_Statement_Q2_2025.pdf",
+      "Catalys_Health_Group_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "ebitda": 15.07,
+      "debtToEBITDA": 3.17,
+      "fixedChargeCoverage": 1.95
+    },
+    "extractionConfidence": 0.91,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-3c7c8328",
+    "borrowerId": "BRW-c8323c55",
+    "borrowerName": "Catalys Health Group",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-19",
+    "receivedDate": "2025-10-20T15:00:00Z",
+    "documents": [
+      "Catalys_Health_Group_Income_Statement_Q3_2025.pdf",
+      "Catalys_Health_Group_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "ebitda": 13.2,
+      "debtToEBITDA": 3.39,
+      "fixedChargeCoverage": 1.7
+    },
+    "extractionConfidence": 0.87,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-2d8c5b1b",
+    "borrowerId": "BRW-66962031",
+    "borrowerName": "Zenith Medical Devices",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-27",
+    "receivedDate": "2025-01-28T20:00:00Z",
+    "documents": [
+      "Zenith_Medical_Devices_Income_Statement_Q4_2024.pdf",
+      "Zenith_Medical_Devices_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "currentRatio": 1.31,
+      "fixedChargeCoverage": 1.24,
+      "debtToEBITDA": 4.4,
+      "ebitda": 11.73
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-3ef533c7",
+    "borrowerId": "BRW-66962031",
+    "borrowerName": "Zenith Medical Devices",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-14",
+    "receivedDate": "2025-04-15T04:00:00Z",
+    "documents": [
+      "Zenith_Medical_Devices_Income_Statement_Q1_2025.pdf",
+      "Zenith_Medical_Devices_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "currentRatio": 1.33,
+      "fixedChargeCoverage": 1.25,
+      "debtToEBITDA": 4.31,
+      "ebitda": 12.01
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-82206783",
+    "borrowerId": "BRW-66962031",
+    "borrowerName": "Zenith Medical Devices",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-20",
+    "receivedDate": "2025-07-20T05:00:00Z",
+    "documents": [
+      "Zenith_Medical_Devices_Income_Statement_Q2_2025.pdf",
+      "Zenith_Medical_Devices_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "currentRatio": 1.27,
+      "fixedChargeCoverage": 1.25,
+      "debtToEBITDA": 4.3,
+      "ebitda": 11.27
+    },
+    "extractionConfidence": 0.96,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-d1422da0",
+    "borrowerId": "BRW-66962031",
+    "borrowerName": "Zenith Medical Devices",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-11-02",
+    "receivedDate": "2025-11-02T02:00:00Z",
+    "documents": [
+      "Zenith_Medical_Devices_Income_Statement_Q3_2025.pdf",
+      "Zenith_Medical_Devices_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "currentRatio": 1.3,
+      "fixedChargeCoverage": 1.24,
+      "debtToEBITDA": 4.45,
+      "ebitda": 11.39
+    },
+    "extractionConfidence": 0.91,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-2ce2b40e",
+    "borrowerId": "BRW-e6cd20bf",
+    "borrowerName": "Ironclad Manufacturing Co",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-08",
+    "receivedDate": "2025-02-09T17:00:00Z",
+    "documents": [
+      "Ironclad_Manufacturing_Co_Income_Statement_Q4_2024.pdf",
+      "Ironclad_Manufacturing_Co_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "leverageRatio": 2.47,
+      "capex": 8.11,
+      "currentRatio": 1.88
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-68bc1aac",
+    "borrowerId": "BRW-e6cd20bf",
+    "borrowerName": "Ironclad Manufacturing Co",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-15",
+    "receivedDate": "2025-04-15T02:00:00Z",
+    "documents": [
+      "Ironclad_Manufacturing_Co_Income_Statement_Q1_2025.pdf",
+      "Ironclad_Manufacturing_Co_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "leverageRatio": 2.29,
+      "capex": 9.72,
+      "currentRatio": 1.55
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-ad335a65",
+    "borrowerId": "BRW-e6cd20bf",
+    "borrowerName": "Ironclad Manufacturing Co",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-17",
+    "receivedDate": "2025-07-18T15:00:00Z",
+    "documents": [
+      "Ironclad_Manufacturing_Co_Income_Statement_Q2_2025.pdf",
+      "Ironclad_Manufacturing_Co_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "leverageRatio": 1.74,
+      "capex": 10.08,
+      "currentRatio": 1.61
+    },
+    "extractionConfidence": 0.94,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-b4e1463c",
+    "borrowerId": "BRW-e6cd20bf",
+    "borrowerName": "Ironclad Manufacturing Co",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-25",
+    "receivedDate": "2025-10-25T09:00:00Z",
+    "documents": [
+      "Ironclad_Manufacturing_Co_Income_Statement_Q3_2025.pdf",
+      "Ironclad_Manufacturing_Co_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "leverageRatio": 2.02,
+      "capex": 9.69,
+      "currentRatio": 1.83
+    },
+    "extractionConfidence": 0.9,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-36a35a63",
+    "borrowerId": "BRW-edba0376",
+    "borrowerName": "Titan Industrial Group",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-06",
+    "receivedDate": "2025-02-07T01:00:00Z",
+    "documents": [
+      "Titan_Industrial_Group_Income_Statement_Q4_2024.pdf",
+      "Titan_Industrial_Group_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "capex": 12.87,
+      "interestCoverageRatio": 2.89,
+      "leverageRatio": 3.33,
+      "currentRatio": 1.34
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-a88ea0de",
+    "borrowerId": "BRW-edba0376",
+    "borrowerName": "Titan Industrial Group",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-10",
+    "receivedDate": "2025-04-10T18:00:00Z",
+    "documents": [
+      "Titan_Industrial_Group_Income_Statement_Q1_2025.pdf",
+      "Titan_Industrial_Group_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "capex": 13.57,
+      "interestCoverageRatio": 2.92,
+      "leverageRatio": 3.52,
+      "currentRatio": 1.36
+    },
+    "extractionConfidence": 0.88,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-87aad94b",
+    "borrowerId": "BRW-edba0376",
+    "borrowerName": "Titan Industrial Group",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-15",
+    "receivedDate": "2025-07-16T05:00:00Z",
+    "documents": [
+      "Titan_Industrial_Group_Income_Statement_Q2_2025.pdf",
+      "Titan_Industrial_Group_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "capex": 13.44,
+      "interestCoverageRatio": 3.0,
+      "leverageRatio": 3.38,
+      "currentRatio": 1.4
+    },
+    "extractionConfidence": 0.88,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-ae1d1476",
+    "borrowerId": "BRW-edba0376",
+    "borrowerName": "Titan Industrial Group",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-22",
+    "receivedDate": "2025-10-22T03:00:00Z",
+    "documents": [
+      "Titan_Industrial_Group_Income_Statement_Q3_2025.pdf",
+      "Titan_Industrial_Group_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "capex": 13.05,
+      "interestCoverageRatio": 3.1,
+      "leverageRatio": 3.54,
+      "currentRatio": 1.39
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-d291d2e8",
+    "borrowerId": "BRW-483bd227",
+    "borrowerName": "Forge Dynamics Inc",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-28",
+    "receivedDate": "2025-01-29T15:00:00Z",
+    "documents": [
+      "Forge_Dynamics_Inc_Income_Statement_Q4_2024.pdf",
+      "Forge_Dynamics_Inc_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 2.89,
+      "leverageRatio": 2.94,
+      "currentRatio": 1.12,
+      "capex": 14.0
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-33e741fb",
+    "borrowerId": "BRW-483bd227",
+    "borrowerName": "Forge Dynamics Inc",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-24",
+    "receivedDate": "2025-04-24T03:00:00Z",
+    "documents": [
+      "Forge_Dynamics_Inc_Income_Statement_Q1_2025.pdf",
+      "Forge_Dynamics_Inc_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 2.99,
+      "leverageRatio": 2.8,
+      "currentRatio": 1.1,
+      "capex": 15.64
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-10138871",
+    "borrowerId": "BRW-483bd227",
+    "borrowerName": "Forge Dynamics Inc",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-22",
+    "receivedDate": "2025-07-23T10:00:00Z",
+    "documents": [
+      "Forge_Dynamics_Inc_Income_Statement_Q2_2025.pdf",
+      "Forge_Dynamics_Inc_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 2.95,
+      "leverageRatio": 3.05,
+      "currentRatio": 1.06,
+      "capex": 14.7
+    },
+    "extractionConfidence": 0.96,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-ec1b9740",
+    "borrowerId": "BRW-483bd227",
+    "borrowerName": "Forge Dynamics Inc",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-11-03",
+    "receivedDate": "2025-11-03T19:00:00Z",
+    "documents": [
+      "Forge_Dynamics_Inc_Income_Statement_Q3_2025.pdf",
+      "Forge_Dynamics_Inc_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 2.86,
+      "leverageRatio": 2.86,
+      "currentRatio": 1.11,
+      "capex": 14.03
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-5e4fec0c",
+    "borrowerId": "BRW-5346fce6",
+    "borrowerName": "Sterling Materials Corp",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-14",
+    "receivedDate": "2025-01-15T06:00:00Z",
+    "documents": [
+      "Sterling_Materials_Corp_Income_Statement_Q4_2024.pdf",
+      "Sterling_Materials_Corp_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 3.56,
+      "leverageRatio": 2.29,
+      "capex": 12.75
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-e4ee8cb1",
+    "borrowerId": "BRW-5346fce6",
+    "borrowerName": "Sterling Materials Corp",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-05-04",
+    "receivedDate": "2025-05-05T14:00:00Z",
+    "documents": [
+      "Sterling_Materials_Corp_Income_Statement_Q1_2025.pdf",
+      "Sterling_Materials_Corp_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 3.69,
+      "leverageRatio": 2.59,
+      "capex": 9.27
+    },
+    "extractionConfidence": 0.9,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-d6ac2d21",
+    "borrowerId": "BRW-5346fce6",
+    "borrowerName": "Sterling Materials Corp",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-24",
+    "receivedDate": "2025-07-24T02:00:00Z",
+    "documents": [
+      "Sterling_Materials_Corp_Income_Statement_Q2_2025.pdf",
+      "Sterling_Materials_Corp_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 2.8,
+      "leverageRatio": 2.46,
+      "capex": 12.7
+    },
+    "extractionConfidence": 0.88,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-2d808959",
+    "borrowerId": "BRW-5346fce6",
+    "borrowerName": "Sterling Materials Corp",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-24",
+    "receivedDate": "2025-10-24T06:00:00Z",
+    "documents": [
+      "Sterling_Materials_Corp_Income_Statement_Q3_2025.pdf",
+      "Sterling_Materials_Corp_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 2.88,
+      "leverageRatio": 2.58,
+      "capex": 13.85
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-d15e8ec5",
+    "borrowerId": "BRW-abe1ae3e",
+    "borrowerName": "Atlas Precision Engineering",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-01",
+    "receivedDate": "2025-02-02T23:00:00Z",
+    "documents": [
+      "Atlas_Precision_Engineering_Income_Statement_Q4_2024.pdf",
+      "Atlas_Precision_Engineering_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "capex": 8.53,
+      "leverageRatio": 2.0,
+      "currentRatio": 1.81
+    },
+    "extractionConfidence": 0.9,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-7c75f4ae",
+    "borrowerId": "BRW-abe1ae3e",
+    "borrowerName": "Atlas Precision Engineering",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-26",
+    "receivedDate": "2025-04-27T22:00:00Z",
+    "documents": [
+      "Atlas_Precision_Engineering_Income_Statement_Q1_2025.pdf",
+      "Atlas_Precision_Engineering_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "capex": 9.97,
+      "leverageRatio": 2.88,
+      "currentRatio": 1.86
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-a109e511",
+    "borrowerId": "BRW-abe1ae3e",
+    "borrowerName": "Atlas Precision Engineering",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-22",
+    "receivedDate": "2025-07-23T12:00:00Z",
+    "documents": [
+      "Atlas_Precision_Engineering_Income_Statement_Q2_2025.pdf",
+      "Atlas_Precision_Engineering_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "capex": 9.95,
+      "leverageRatio": 2.85,
+      "currentRatio": 2.13
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-05a60d08",
+    "borrowerId": "BRW-abe1ae3e",
+    "borrowerName": "Atlas Precision Engineering",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-31",
+    "receivedDate": "2025-10-31T10:00:00Z",
+    "documents": [
+      "Atlas_Precision_Engineering_Income_Statement_Q3_2025.pdf",
+      "Atlas_Precision_Engineering_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "capex": 8.75,
+      "leverageRatio": 2.04,
+      "currentRatio": 2.03
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-8f0a62fd",
+    "borrowerId": "BRW-59d04c93",
+    "borrowerName": "Cobalt Fabrication Ltd",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-19",
+    "receivedDate": "2025-01-19T20:00:00Z",
+    "documents": [
+      "Cobalt_Fabrication_Ltd_Income_Statement_Q4_2024.pdf",
+      "Cobalt_Fabrication_Ltd_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 4.2,
+      "currentRatio": 1.91,
+      "leverageRatio": 2.37,
+      "capex": 8.18
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-9b972b65",
+    "borrowerId": "BRW-59d04c93",
+    "borrowerName": "Cobalt Fabrication Ltd",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-05-10",
+    "receivedDate": "2025-05-10T13:00:00Z",
+    "documents": [
+      "Cobalt_Fabrication_Ltd_Income_Statement_Q1_2025.pdf",
+      "Cobalt_Fabrication_Ltd_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 3.16,
+      "currentRatio": 1.79,
+      "leverageRatio": 1.99,
+      "capex": 9.8
+    },
+    "extractionConfidence": 0.91,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-61af83cc",
+    "borrowerId": "BRW-59d04c93",
+    "borrowerName": "Cobalt Fabrication Ltd",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-04",
+    "receivedDate": "2025-08-04T01:00:00Z",
+    "documents": [
+      "Cobalt_Fabrication_Ltd_Income_Statement_Q2_2025.pdf",
+      "Cobalt_Fabrication_Ltd_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 4.03,
+      "currentRatio": 1.63,
+      "leverageRatio": 2.27,
+      "capex": 10.62
+    },
+    "extractionConfidence": 0.91,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-6cb8b455",
+    "borrowerId": "BRW-59d04c93",
+    "borrowerName": "Cobalt Fabrication Ltd",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-24",
+    "receivedDate": "2025-10-24T06:00:00Z",
+    "documents": [
+      "Cobalt_Fabrication_Ltd_Income_Statement_Q3_2025.pdf",
+      "Cobalt_Fabrication_Ltd_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 4.02,
+      "currentRatio": 1.33,
+      "leverageRatio": 3.19,
+      "capex": 8.68
+    },
+    "extractionConfidence": 0.93,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-e18f09bb",
+    "borrowerId": "BRW-1ee93f0f",
+    "borrowerName": "Vanguard Heavy Industries",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-05",
+    "receivedDate": "2025-02-05T14:00:00Z",
+    "documents": [
+      "Vanguard_Heavy_Industries_Income_Statement_Q4_2024.pdf",
+      "Vanguard_Heavy_Industries_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "capex": 7.2,
+      "leverageRatio": 2.17,
+      "currentRatio": 1.75,
+      "interestCoverageRatio": 2.64
+    },
+    "extractionConfidence": 0.96,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-ffee218b",
+    "borrowerId": "BRW-1ee93f0f",
+    "borrowerName": "Vanguard Heavy Industries",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-05-01",
+    "receivedDate": "2025-05-02T13:00:00Z",
+    "documents": [
+      "Vanguard_Heavy_Industries_Income_Statement_Q1_2025.pdf",
+      "Vanguard_Heavy_Industries_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "capex": 11.05,
+      "leverageRatio": 2.38,
+      "currentRatio": 1.92,
+      "interestCoverageRatio": 2.65
+    },
+    "extractionConfidence": 0.9,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-13c8e519",
+    "borrowerId": "BRW-1ee93f0f",
+    "borrowerName": "Vanguard Heavy Industries",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-15",
+    "receivedDate": "2025-07-15T11:00:00Z",
+    "documents": [
+      "Vanguard_Heavy_Industries_Income_Statement_Q2_2025.pdf",
+      "Vanguard_Heavy_Industries_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "capex": 10.24,
+      "leverageRatio": 2.81,
+      "currentRatio": 1.78,
+      "interestCoverageRatio": 3.3
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-c5b293fc",
+    "borrowerId": "BRW-1ee93f0f",
+    "borrowerName": "Vanguard Heavy Industries",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-15",
+    "receivedDate": "2025-10-16T06:00:00Z",
+    "documents": [
+      "Vanguard_Heavy_Industries_Income_Statement_Q3_2025.pdf",
+      "Vanguard_Heavy_Industries_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "capex": 10.62,
+      "leverageRatio": 2.47,
+      "currentRatio": 1.38,
+      "interestCoverageRatio": 3.5
+    },
+    "extractionConfidence": 0.89,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-3cd70ddb",
+    "borrowerId": "BRW-6e0c3fa3",
+    "borrowerName": "Meridian Steel Works",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-07",
+    "receivedDate": "2025-02-08T01:00:00Z",
+    "documents": [
+      "Meridian_Steel_Works_Income_Statement_Q4_2024.pdf",
+      "Meridian_Steel_Works_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 3.85,
+      "currentRatio": 1.66,
+      "leverageRatio": 3.09,
+      "capex": 7.06
+    },
+    "extractionConfidence": 0.91,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-9381c70c",
+    "borrowerId": "BRW-6e0c3fa3",
+    "borrowerName": "Meridian Steel Works",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-13",
+    "receivedDate": "2025-04-14T21:00:00Z",
+    "documents": [
+      "Meridian_Steel_Works_Income_Statement_Q1_2025.pdf",
+      "Meridian_Steel_Works_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 3.9,
+      "currentRatio": 1.42,
+      "leverageRatio": 2.51,
+      "capex": 7.74
+    },
+    "extractionConfidence": 0.88,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-3f024cf9",
+    "borrowerId": "BRW-6e0c3fa3",
+    "borrowerName": "Meridian Steel Works",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-11",
+    "receivedDate": "2025-07-11T07:00:00Z",
+    "documents": [
+      "Meridian_Steel_Works_Income_Statement_Q2_2025.pdf",
+      "Meridian_Steel_Works_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 3.53,
+      "currentRatio": 1.78,
+      "leverageRatio": 2.67,
+      "capex": 7.16
+    },
+    "extractionConfidence": 0.94,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-fc096e89",
+    "borrowerId": "BRW-6e0c3fa3",
+    "borrowerName": "Meridian Steel Works",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-29",
+    "receivedDate": "2025-10-30T22:00:00Z",
+    "documents": [
+      "Meridian_Steel_Works_Income_Statement_Q3_2025.pdf",
+      "Meridian_Steel_Works_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 3.17,
+      "currentRatio": 1.57,
+      "leverageRatio": 2.38,
+      "capex": 9.23
+    },
+    "extractionConfidence": 0.98,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-97301db0",
+    "borrowerId": "BRW-4f2b0f94",
+    "borrowerName": "Apex Composites Inc",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-08",
+    "receivedDate": "2025-02-08T09:00:00Z",
+    "documents": [
+      "Apex_Composites_Inc_Income_Statement_Q4_2024.pdf",
+      "Apex_Composites_Inc_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 3.35,
+      "leverageRatio": 2.84,
+      "currentRatio": 1.64
+    },
+    "extractionConfidence": 0.91,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-46c60cf2",
+    "borrowerId": "BRW-4f2b0f94",
+    "borrowerName": "Apex Composites Inc",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-05-05",
+    "receivedDate": "2025-05-05T12:00:00Z",
+    "documents": [
+      "Apex_Composites_Inc_Income_Statement_Q1_2025.pdf",
+      "Apex_Composites_Inc_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 3.53,
+      "leverageRatio": 2.62,
+      "currentRatio": 1.49
+    },
+    "extractionConfidence": 0.88,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-8e205f69",
+    "borrowerId": "BRW-4f2b0f94",
+    "borrowerName": "Apex Composites Inc",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-13",
+    "receivedDate": "2025-07-13T02:00:00Z",
+    "documents": [
+      "Apex_Composites_Inc_Income_Statement_Q2_2025.pdf",
+      "Apex_Composites_Inc_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 3.24,
+      "leverageRatio": 4.76,
+      "currentRatio": 1.64
+    },
+    "extractionConfidence": 0.88,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-8b8f1daa",
+    "borrowerId": "BRW-4f2b0f94",
+    "borrowerName": "Apex Composites Inc",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-29",
+    "receivedDate": "2025-10-30T03:00:00Z",
+    "documents": [
+      "Apex_Composites_Inc_Income_Statement_Q3_2025.pdf",
+      "Apex_Composites_Inc_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 3.21,
+      "leverageRatio": 4.2,
+      "currentRatio": 1.58
+    },
+    "extractionConfidence": 0.93,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-47c9643a",
+    "borrowerId": "BRW-36e9962b",
+    "borrowerName": "TerraForge Manufacturing",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-30",
+    "receivedDate": "2025-01-30T13:00:00Z",
+    "documents": [
+      "TerraForge_Manufacturing_Income_Statement_Q4_2024.pdf",
+      "TerraForge_Manufacturing_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "capex": 12.27,
+      "currentRatio": 1.54,
+      "interestCoverageRatio": 2.56,
+      "leverageRatio": 2.4
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-074bdafa",
+    "borrowerId": "BRW-36e9962b",
+    "borrowerName": "TerraForge Manufacturing",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-05-04",
+    "receivedDate": "2025-05-04T01:00:00Z",
+    "documents": [
+      "TerraForge_Manufacturing_Income_Statement_Q1_2025.pdf",
+      "TerraForge_Manufacturing_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "capex": 9.65,
+      "currentRatio": 1.56,
+      "interestCoverageRatio": 2.76,
+      "leverageRatio": 2.68
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-6d8f5128",
+    "borrowerId": "BRW-36e9962b",
+    "borrowerName": "TerraForge Manufacturing",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-05",
+    "receivedDate": "2025-08-05T12:00:00Z",
+    "documents": [
+      "TerraForge_Manufacturing_Income_Statement_Q2_2025.pdf",
+      "TerraForge_Manufacturing_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "capex": 10.01,
+      "currentRatio": 1.74,
+      "interestCoverageRatio": 3.07,
+      "leverageRatio": 2.59
+    },
+    "extractionConfidence": 0.91,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-0cba77ef",
+    "borrowerId": "BRW-36e9962b",
+    "borrowerName": "TerraForge Manufacturing",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-11",
+    "receivedDate": "2025-10-12T18:00:00Z",
+    "documents": [
+      "TerraForge_Manufacturing_Income_Statement_Q3_2025.pdf",
+      "TerraForge_Manufacturing_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "capex": 16.38,
+      "currentRatio": 1.5,
+      "interestCoverageRatio": 2.8,
+      "leverageRatio": 2.99
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-78122fe3",
+    "borrowerId": "BRW-2af8899c",
+    "borrowerName": "Obsidian Automotive Parts",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-24",
+    "receivedDate": "2025-01-25T03:00:00Z",
+    "documents": [
+      "Obsidian_Automotive_Parts_Income_Statement_Q4_2024.pdf",
+      "Obsidian_Automotive_Parts_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "leverageRatio": 3.83,
+      "currentRatio": 1.26,
+      "capex": 13.12
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-b28f43fd",
+    "borrowerId": "BRW-2af8899c",
+    "borrowerName": "Obsidian Automotive Parts",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-05-01",
+    "receivedDate": "2025-05-01T21:00:00Z",
+    "documents": [
+      "Obsidian_Automotive_Parts_Income_Statement_Q1_2025.pdf",
+      "Obsidian_Automotive_Parts_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "leverageRatio": 3.67,
+      "currentRatio": 1.25,
+      "capex": 13.21
+    },
+    "extractionConfidence": 0.89,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-37d4bc4a",
+    "borrowerId": "BRW-2af8899c",
+    "borrowerName": "Obsidian Automotive Parts",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-08",
+    "receivedDate": "2025-08-08T23:00:00Z",
+    "documents": [
+      "Obsidian_Automotive_Parts_Income_Statement_Q2_2025.pdf",
+      "Obsidian_Automotive_Parts_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "leverageRatio": 3.46,
+      "currentRatio": 1.27,
+      "capex": 13.61
+    },
+    "extractionConfidence": 0.89,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-39784512",
+    "borrowerId": "BRW-2af8899c",
+    "borrowerName": "Obsidian Automotive Parts",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-22",
+    "receivedDate": "2025-10-23T17:00:00Z",
+    "documents": [
+      "Obsidian_Automotive_Parts_Income_Statement_Q3_2025.pdf",
+      "Obsidian_Automotive_Parts_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "leverageRatio": 3.66,
+      "currentRatio": 1.28,
+      "capex": 13.25
+    },
+    "extractionConfidence": 0.87,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-4d25fb63",
+    "borrowerId": "BRW-4d059b09",
+    "borrowerName": "Crestline Machining Co",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-13",
+    "receivedDate": "2025-01-13T20:00:00Z",
+    "documents": [
+      "Crestline_Machining_Co_Income_Statement_Q4_2024.pdf",
+      "Crestline_Machining_Co_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "leverageRatio": 2.31,
+      "interestCoverageRatio": 3.18,
+      "currentRatio": 1.31,
+      "capex": 9.92
+    },
+    "extractionConfidence": 0.91,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-992b0654",
+    "borrowerId": "BRW-4d059b09",
+    "borrowerName": "Crestline Machining Co",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-17",
+    "receivedDate": "2025-04-18T00:00:00Z",
+    "documents": [
+      "Crestline_Machining_Co_Income_Statement_Q1_2025.pdf",
+      "Crestline_Machining_Co_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "leverageRatio": 2.03,
+      "interestCoverageRatio": 3.99,
+      "currentRatio": 1.41,
+      "capex": 9.32
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-06783686",
+    "borrowerId": "BRW-4d059b09",
+    "borrowerName": "Crestline Machining Co",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-04",
+    "receivedDate": "2025-08-04T03:00:00Z",
+    "documents": [
+      "Crestline_Machining_Co_Income_Statement_Q2_2025.pdf",
+      "Crestline_Machining_Co_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "leverageRatio": 2.39,
+      "interestCoverageRatio": 3.94,
+      "currentRatio": 1.55,
+      "capex": 7.83
+    },
+    "extractionConfidence": 0.91,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-58209b02",
+    "borrowerId": "BRW-4d059b09",
+    "borrowerName": "Crestline Machining Co",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-26",
+    "receivedDate": "2025-10-26T10:00:00Z",
+    "documents": [
+      "Crestline_Machining_Co_Income_Statement_Q3_2025.pdf",
+      "Crestline_Machining_Co_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "leverageRatio": 1.75,
+      "interestCoverageRatio": 3.95,
+      "currentRatio": 1.72,
+      "capex": 10.52
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-54772293",
+    "borrowerId": "BRW-75226504",
+    "borrowerName": "Keystone Industrial Corp",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-14",
+    "receivedDate": "2025-01-14T07:00:00Z",
+    "documents": [
+      "Keystone_Industrial_Corp_Income_Statement_Q4_2024.pdf",
+      "Keystone_Industrial_Corp_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 3.57,
+      "capex": 11.94,
+      "leverageRatio": 2.74
+    },
+    "extractionConfidence": 0.87,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-3b378e66",
+    "borrowerId": "BRW-75226504",
+    "borrowerName": "Keystone Industrial Corp",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-05-03",
+    "receivedDate": "2025-05-03T03:00:00Z",
+    "documents": [
+      "Keystone_Industrial_Corp_Income_Statement_Q1_2025.pdf",
+      "Keystone_Industrial_Corp_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 3.14,
+      "capex": 10.81,
+      "leverageRatio": 2.54
+    },
+    "extractionConfidence": 0.85,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-fc9beb4a",
+    "borrowerId": "BRW-75226504",
+    "borrowerName": "Keystone Industrial Corp",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-08",
+    "receivedDate": "2025-08-08T03:00:00Z",
+    "documents": [
+      "Keystone_Industrial_Corp_Income_Statement_Q2_2025.pdf",
+      "Keystone_Industrial_Corp_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 3.41,
+      "capex": 10.21,
+      "leverageRatio": 1.97
+    },
+    "extractionConfidence": 0.91,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-c8a85937",
+    "borrowerId": "BRW-75226504",
+    "borrowerName": "Keystone Industrial Corp",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-11",
+    "receivedDate": "2025-10-11T07:00:00Z",
+    "documents": [
+      "Keystone_Industrial_Corp_Income_Statement_Q3_2025.pdf",
+      "Keystone_Industrial_Corp_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 3.21,
+      "capex": 10.54,
+      "leverageRatio": 2.27
+    },
+    "extractionConfidence": 0.93,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-31fff2b1",
+    "borrowerId": "BRW-45a4a879",
+    "borrowerName": "Summit Alloys Ltd",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-19",
+    "receivedDate": "2025-01-20T17:00:00Z",
+    "documents": [
+      "Summit_Alloys_Ltd_Income_Statement_Q4_2024.pdf",
+      "Summit_Alloys_Ltd_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "leverageRatio": 2.62,
+      "interestCoverageRatio": 3.54,
+      "capex": 9.48
+    },
+    "extractionConfidence": 0.89,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-35b50b75",
+    "borrowerId": "BRW-45a4a879",
+    "borrowerName": "Summit Alloys Ltd",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-20",
+    "receivedDate": "2025-04-21T05:00:00Z",
+    "documents": [
+      "Summit_Alloys_Ltd_Income_Statement_Q1_2025.pdf",
+      "Summit_Alloys_Ltd_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "leverageRatio": 2.37,
+      "interestCoverageRatio": 3.47,
+      "capex": 9.27
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-871053f7",
+    "borrowerId": "BRW-45a4a879",
+    "borrowerName": "Summit Alloys Ltd",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-09",
+    "receivedDate": "2025-08-10T16:00:00Z",
+    "documents": [
+      "Summit_Alloys_Ltd_Income_Statement_Q2_2025.pdf",
+      "Summit_Alloys_Ltd_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "leverageRatio": 2.25,
+      "interestCoverageRatio": 3.23,
+      "capex": 11.52
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-a9f63f67",
+    "borrowerId": "BRW-45a4a879",
+    "borrowerName": "Summit Alloys Ltd",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-18",
+    "receivedDate": "2025-10-18T10:00:00Z",
+    "documents": [
+      "Summit_Alloys_Ltd_Income_Statement_Q3_2025.pdf",
+      "Summit_Alloys_Ltd_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "leverageRatio": 2.68,
+      "interestCoverageRatio": 4.22,
+      "capex": 11.71
+    },
+    "extractionConfidence": 0.87,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-c8aaaa25",
+    "borrowerId": "BRW-8f81c9ce",
+    "borrowerName": "Phoenix Assembly Group",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-29",
+    "receivedDate": "2025-01-29T22:00:00Z",
+    "documents": [
+      "Phoenix_Assembly_Group_Income_Statement_Q4_2024.pdf",
+      "Phoenix_Assembly_Group_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 2.52,
+      "leverageRatio": 1.96,
+      "capex": 9.01,
+      "currentRatio": 1.42
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-ee9f0e86",
+    "borrowerId": "BRW-8f81c9ce",
+    "borrowerName": "Phoenix Assembly Group",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-22",
+    "receivedDate": "2025-04-22T04:00:00Z",
+    "documents": [
+      "Phoenix_Assembly_Group_Income_Statement_Q1_2025.pdf",
+      "Phoenix_Assembly_Group_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 2.28,
+      "leverageRatio": 2.29,
+      "capex": 12.02,
+      "currentRatio": 1.41
+    },
+    "extractionConfidence": 0.93,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-ca698afb",
+    "borrowerId": "BRW-8f81c9ce",
+    "borrowerName": "Phoenix Assembly Group",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-01",
+    "receivedDate": "2025-08-02T21:00:00Z",
+    "documents": [
+      "Phoenix_Assembly_Group_Income_Statement_Q2_2025.pdf",
+      "Phoenix_Assembly_Group_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 2.47,
+      "leverageRatio": 2.25,
+      "capex": 10.36,
+      "currentRatio": 1.22
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-1614c791",
+    "borrowerId": "BRW-8f81c9ce",
+    "borrowerName": "Phoenix Assembly Group",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-11-04",
+    "receivedDate": "2025-11-05T11:00:00Z",
+    "documents": [
+      "Phoenix_Assembly_Group_Income_Statement_Q3_2025.pdf",
+      "Phoenix_Assembly_Group_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "interestCoverageRatio": 2.28,
+      "leverageRatio": 2.8,
+      "capex": 12.28,
+      "currentRatio": 0.96
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-ff5b0eb0",
+    "borrowerId": "BRW-8ffff861",
+    "borrowerName": "Cornerstone Property Holdings",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-04",
+    "receivedDate": "2025-02-05T21:00:00Z",
+    "documents": [
+      "Cornerstone_Property_Holdings_Income_Statement_Q4_2024.pdf",
+      "Cornerstone_Property_Holdings_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "loanToValue": 57.17,
+      "debtServiceCoverage": 1.52,
+      "occupancyRate": 93.8
+    },
+    "extractionConfidence": 0.94,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-eec39d37",
+    "borrowerId": "BRW-8ffff861",
+    "borrowerName": "Cornerstone Property Holdings",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-24",
+    "receivedDate": "2025-04-25T07:00:00Z",
+    "documents": [
+      "Cornerstone_Property_Holdings_Income_Statement_Q1_2025.pdf",
+      "Cornerstone_Property_Holdings_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "loanToValue": 55.57,
+      "debtServiceCoverage": 1.48,
+      "occupancyRate": 95.48
+    },
+    "extractionConfidence": 0.93,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-f5a0d653",
+    "borrowerId": "BRW-8ffff861",
+    "borrowerName": "Cornerstone Property Holdings",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-08",
+    "receivedDate": "2025-08-09T00:00:00Z",
+    "documents": [
+      "Cornerstone_Property_Holdings_Income_Statement_Q2_2025.pdf",
+      "Cornerstone_Property_Holdings_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "loanToValue": 56.65,
+      "debtServiceCoverage": 1.55,
+      "occupancyRate": 93.62
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-8a8755cf",
+    "borrowerId": "BRW-8ffff861",
+    "borrowerName": "Cornerstone Property Holdings",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-11-07",
+    "receivedDate": "2025-11-07T21:00:00Z",
+    "documents": [
+      "Cornerstone_Property_Holdings_Income_Statement_Q3_2025.pdf",
+      "Cornerstone_Property_Holdings_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "loanToValue": 57.07,
+      "debtServiceCoverage": 1.45,
+      "occupancyRate": 91.81
+    },
+    "extractionConfidence": 0.9,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-075bb5cf",
+    "borrowerId": "BRW-cf36bf0d",
+    "borrowerName": "Skyline REIT Corp",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-24",
+    "receivedDate": "2025-01-24T11:00:00Z",
+    "documents": [
+      "Skyline_REIT_Corp_Income_Statement_Q4_2024.pdf",
+      "Skyline_REIT_Corp_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "occupancyRate": 90.37,
+      "debtServiceCoverage": 1.82,
+      "loanToValue": 47.59
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-cbee3eaa",
+    "borrowerId": "BRW-cf36bf0d",
+    "borrowerName": "Skyline REIT Corp",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-22",
+    "receivedDate": "2025-04-23T22:00:00Z",
+    "documents": [
+      "Skyline_REIT_Corp_Income_Statement_Q1_2025.pdf",
+      "Skyline_REIT_Corp_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "occupancyRate": 109.1,
+      "debtServiceCoverage": 1.81,
+      "loanToValue": 49.36
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-08ad98f6",
+    "borrowerId": "BRW-cf36bf0d",
+    "borrowerName": "Skyline REIT Corp",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-27",
+    "receivedDate": "2025-07-28T06:00:00Z",
+    "documents": [
+      "Skyline_REIT_Corp_Income_Statement_Q2_2025.pdf",
+      "Skyline_REIT_Corp_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "occupancyRate": 94.68,
+      "debtServiceCoverage": 1.87,
+      "loanToValue": 48.68
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-875074a7",
+    "borrowerId": "BRW-cf36bf0d",
+    "borrowerName": "Skyline REIT Corp",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-25",
+    "receivedDate": "2025-10-26T01:00:00Z",
+    "documents": [
+      "Skyline_REIT_Corp_Income_Statement_Q3_2025.pdf",
+      "Skyline_REIT_Corp_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "occupancyRate": 82.5,
+      "debtServiceCoverage": 1.72,
+      "loanToValue": 50.42
+    },
+    "extractionConfidence": 0.91,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-af194d6c",
+    "borrowerId": "BRW-a05e0cb8",
+    "borrowerName": "Meridian Real Estate Trust",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-23",
+    "receivedDate": "2025-01-24T13:00:00Z",
+    "documents": [
+      "Meridian_Real_Estate_Trust_Income_Statement_Q4_2024.pdf",
+      "Meridian_Real_Estate_Trust_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "debtServiceCoverage": 1.6,
+      "occupancyRate": 103.88,
+      "loanToValue": 64.3
+    },
+    "extractionConfidence": 0.94,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-22f5c7a0",
+    "borrowerId": "BRW-a05e0cb8",
+    "borrowerName": "Meridian Real Estate Trust",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-12",
+    "receivedDate": "2025-04-14T00:00:00Z",
+    "documents": [
+      "Meridian_Real_Estate_Trust_Income_Statement_Q1_2025.pdf",
+      "Meridian_Real_Estate_Trust_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "debtServiceCoverage": 1.62,
+      "occupancyRate": 104.19,
+      "loanToValue": 66.25
+    },
+    "extractionConfidence": 0.93,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-e3d6ec97",
+    "borrowerId": "BRW-a05e0cb8",
+    "borrowerName": "Meridian Real Estate Trust",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-24",
+    "receivedDate": "2025-07-24T21:00:00Z",
+    "documents": [
+      "Meridian_Real_Estate_Trust_Income_Statement_Q2_2025.pdf",
+      "Meridian_Real_Estate_Trust_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "debtServiceCoverage": 1.56,
+      "occupancyRate": 106.84,
+      "loanToValue": 63.83
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-f414f94b",
+    "borrowerId": "BRW-a05e0cb8",
+    "borrowerName": "Meridian Real Estate Trust",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-12",
+    "receivedDate": "2025-10-13T15:00:00Z",
+    "documents": [
+      "Meridian_Real_Estate_Trust_Income_Statement_Q3_2025.pdf",
+      "Meridian_Real_Estate_Trust_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "debtServiceCoverage": 1.49,
+      "occupancyRate": 106.76,
+      "loanToValue": 68.48
+    },
+    "extractionConfidence": 0.9,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-a59f623a",
+    "borrowerId": "BRW-fdd55305",
+    "borrowerName": "Vantage Development Group",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-25",
+    "receivedDate": "2025-01-26T18:00:00Z",
+    "documents": [
+      "Vantage_Development_Group_Income_Statement_Q4_2024.pdf",
+      "Vantage_Development_Group_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "loanToValue": 43.71,
+      "occupancyRate": 107.47,
+      "debtServiceCoverage": 2.13
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-9ab82f81",
+    "borrowerId": "BRW-fdd55305",
+    "borrowerName": "Vantage Development Group",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-05-08",
+    "receivedDate": "2025-05-09T17:00:00Z",
+    "documents": [
+      "Vantage_Development_Group_Income_Statement_Q1_2025.pdf",
+      "Vantage_Development_Group_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "loanToValue": 46.84,
+      "occupancyRate": 138.75,
+      "debtServiceCoverage": 2.02
+    },
+    "extractionConfidence": 0.91,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-75053019",
+    "borrowerId": "BRW-fdd55305",
+    "borrowerName": "Vantage Development Group",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-19",
+    "receivedDate": "2025-07-20T01:00:00Z",
+    "documents": [
+      "Vantage_Development_Group_Income_Statement_Q2_2025.pdf",
+      "Vantage_Development_Group_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "loanToValue": 42.78,
+      "occupancyRate": 124.2,
+      "debtServiceCoverage": 1.7
+    },
+    "extractionConfidence": 0.96,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-ecd72486",
+    "borrowerId": "BRW-fdd55305",
+    "borrowerName": "Vantage Development Group",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-19",
+    "receivedDate": "2025-10-20T13:00:00Z",
+    "documents": [
+      "Vantage_Development_Group_Income_Statement_Q3_2025.pdf",
+      "Vantage_Development_Group_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "loanToValue": 46.52,
+      "occupancyRate": 135.11,
+      "debtServiceCoverage": 2.2
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-e9f01dda",
+    "borrowerId": "BRW-923676a3",
+    "borrowerName": "Pinnacle Commercial Partners",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-01",
+    "receivedDate": "2025-02-01T23:00:00Z",
+    "documents": [
+      "Pinnacle_Commercial_Partners_Income_Statement_Q4_2024.pdf",
+      "Pinnacle_Commercial_Partners_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "occupancyRate": 85.91,
+      "debtServiceCoverage": 1.25,
+      "loanToValue": 56.95
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-3ae8d476",
+    "borrowerId": "BRW-923676a3",
+    "borrowerName": "Pinnacle Commercial Partners",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-05-07",
+    "receivedDate": "2025-05-07T09:00:00Z",
+    "documents": [
+      "Pinnacle_Commercial_Partners_Income_Statement_Q1_2025.pdf",
+      "Pinnacle_Commercial_Partners_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "occupancyRate": 84.75,
+      "debtServiceCoverage": 1.18,
+      "loanToValue": 58.86
+    },
+    "extractionConfidence": 0.98,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-8f9a03c2",
+    "borrowerId": "BRW-923676a3",
+    "borrowerName": "Pinnacle Commercial Partners",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-10",
+    "receivedDate": "2025-07-11T22:00:00Z",
+    "documents": [
+      "Pinnacle_Commercial_Partners_Income_Statement_Q2_2025.pdf",
+      "Pinnacle_Commercial_Partners_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "occupancyRate": 82.28,
+      "debtServiceCoverage": 1.3,
+      "loanToValue": 53.63
+    },
+    "extractionConfidence": 0.89,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-0b37d9ee",
+    "borrowerId": "BRW-923676a3",
+    "borrowerName": "Pinnacle Commercial Partners",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-10",
+    "receivedDate": "2025-10-10T16:00:00Z",
+    "documents": [
+      "Pinnacle_Commercial_Partners_Income_Statement_Q3_2025.pdf",
+      "Pinnacle_Commercial_Partners_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "occupancyRate": 81.19,
+      "debtServiceCoverage": 1.25,
+      "loanToValue": 57.04
+    },
+    "extractionConfidence": 0.94,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-a3cda1ce",
+    "borrowerId": "BRW-2472db2d",
+    "borrowerName": "Atlas Urban Holdings",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-22",
+    "receivedDate": "2025-01-23T01:00:00Z",
+    "documents": [
+      "Atlas_Urban_Holdings_Income_Statement_Q4_2024.pdf",
+      "Atlas_Urban_Holdings_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "debtServiceCoverage": 1.69,
+      "loanToValue": 38.36,
+      "occupancyRate": 115.23
+    },
+    "extractionConfidence": 0.87,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-846515f6",
+    "borrowerId": "BRW-2472db2d",
+    "borrowerName": "Atlas Urban Holdings",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-27",
+    "receivedDate": "2025-04-28T01:00:00Z",
+    "documents": [
+      "Atlas_Urban_Holdings_Income_Statement_Q1_2025.pdf",
+      "Atlas_Urban_Holdings_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "debtServiceCoverage": 1.95,
+      "loanToValue": 41.84,
+      "occupancyRate": 127.07
+    },
+    "extractionConfidence": 0.89,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-8eed1786",
+    "borrowerId": "BRW-2472db2d",
+    "borrowerName": "Atlas Urban Holdings",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-06",
+    "receivedDate": "2025-08-07T19:00:00Z",
+    "documents": [
+      "Atlas_Urban_Holdings_Income_Statement_Q2_2025.pdf",
+      "Atlas_Urban_Holdings_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "debtServiceCoverage": 1.49,
+      "loanToValue": 33.69,
+      "occupancyRate": 138.29
+    },
+    "extractionConfidence": 0.87,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-1582e6c5",
+    "borrowerId": "BRW-2472db2d",
+    "borrowerName": "Atlas Urban Holdings",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-11-07",
+    "receivedDate": "2025-11-08T08:00:00Z",
+    "documents": [
+      "Atlas_Urban_Holdings_Income_Statement_Q3_2025.pdf",
+      "Atlas_Urban_Holdings_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "debtServiceCoverage": 1.83,
+      "loanToValue": 56.22,
+      "occupancyRate": 113.4
+    },
+    "extractionConfidence": 0.87,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-0855bbb9",
+    "borrowerId": "BRW-766fa7f9",
+    "borrowerName": "Beacon Property Management",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-04",
+    "receivedDate": "2025-02-05T03:00:00Z",
+    "documents": [
+      "Beacon_Property_Management_Income_Statement_Q4_2024.pdf",
+      "Beacon_Property_Management_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "debtServiceCoverage": 1.74,
+      "loanToValue": 52.37,
+      "occupancyRate": 121.77
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-e9ac8380",
+    "borrowerId": "BRW-766fa7f9",
+    "borrowerName": "Beacon Property Management",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-29",
+    "receivedDate": "2025-04-29T12:00:00Z",
+    "documents": [
+      "Beacon_Property_Management_Income_Statement_Q1_2025.pdf",
+      "Beacon_Property_Management_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "debtServiceCoverage": 1.51,
+      "loanToValue": 41.78,
+      "occupancyRate": 127.01
+    },
+    "extractionConfidence": 0.9,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-f3cd5bc4",
+    "borrowerId": "BRW-766fa7f9",
+    "borrowerName": "Beacon Property Management",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-17",
+    "receivedDate": "2025-07-17T12:00:00Z",
+    "documents": [
+      "Beacon_Property_Management_Income_Statement_Q2_2025.pdf",
+      "Beacon_Property_Management_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "debtServiceCoverage": 1.5,
+      "loanToValue": 32.38,
+      "occupancyRate": 113.47
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-6cd04f64",
+    "borrowerId": "BRW-766fa7f9",
+    "borrowerName": "Beacon Property Management",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-11-01",
+    "receivedDate": "2025-11-02T09:00:00Z",
+    "documents": [
+      "Beacon_Property_Management_Income_Statement_Q3_2025.pdf",
+      "Beacon_Property_Management_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "debtServiceCoverage": 1.41,
+      "loanToValue": 53.11,
+      "occupancyRate": 116.76
+    },
+    "extractionConfidence": 0.85,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-f2c60e6f",
+    "borrowerId": "BRW-ab4603b3",
+    "borrowerName": "CrestView Capital Properties",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-11",
+    "receivedDate": "2025-01-12T13:00:00Z",
+    "documents": [
+      "CrestView_Capital_Properties_Income_Statement_Q4_2024.pdf",
+      "CrestView_Capital_Properties_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "occupancyRate": 113.22,
+      "debtServiceCoverage": 1.48,
+      "loanToValue": 46.47
+    },
+    "extractionConfidence": 0.98,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-90abdc9d",
+    "borrowerId": "BRW-ab4603b3",
+    "borrowerName": "CrestView Capital Properties",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-12",
+    "receivedDate": "2025-04-12T10:00:00Z",
+    "documents": [
+      "CrestView_Capital_Properties_Income_Statement_Q1_2025.pdf",
+      "CrestView_Capital_Properties_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "occupancyRate": 123.64,
+      "debtServiceCoverage": 1.57,
+      "loanToValue": 52.93
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-a15829bd",
+    "borrowerId": "BRW-ab4603b3",
+    "borrowerName": "CrestView Capital Properties",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-18",
+    "receivedDate": "2025-07-19T06:00:00Z",
+    "documents": [
+      "CrestView_Capital_Properties_Income_Statement_Q2_2025.pdf",
+      "CrestView_Capital_Properties_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "occupancyRate": 114.64,
+      "debtServiceCoverage": 1.57,
+      "loanToValue": 47.16
+    },
+    "extractionConfidence": 0.88,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-3f6cdf59",
+    "borrowerId": "BRW-ab4603b3",
+    "borrowerName": "CrestView Capital Properties",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-30",
+    "receivedDate": "2025-11-01T00:00:00Z",
+    "documents": [
+      "CrestView_Capital_Properties_Income_Statement_Q3_2025.pdf",
+      "CrestView_Capital_Properties_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "occupancyRate": 120.84,
+      "debtServiceCoverage": 1.65,
+      "loanToValue": 48.88
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-1c188dd8",
+    "borrowerId": "BRW-ec83b095",
+    "borrowerName": "Harbor Point REIT",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-28",
+    "receivedDate": "2025-01-28T20:00:00Z",
+    "documents": [
+      "Harbor_Point_REIT_Income_Statement_Q4_2024.pdf",
+      "Harbor_Point_REIT_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "loanToValue": 62.74,
+      "occupancyRate": 97.65,
+      "debtServiceCoverage": 1.52
+    },
+    "extractionConfidence": 0.85,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-08954bba",
+    "borrowerId": "BRW-ec83b095",
+    "borrowerName": "Harbor Point REIT",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-24",
+    "receivedDate": "2025-04-25T09:00:00Z",
+    "documents": [
+      "Harbor_Point_REIT_Income_Statement_Q1_2025.pdf",
+      "Harbor_Point_REIT_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "loanToValue": 64.87,
+      "occupancyRate": 94.46,
+      "debtServiceCoverage": 1.49
+    },
+    "extractionConfidence": 0.9,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-aa1ace58",
+    "borrowerId": "BRW-ec83b095",
+    "borrowerName": "Harbor Point REIT",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-04",
+    "receivedDate": "2025-08-04T19:00:00Z",
+    "documents": [
+      "Harbor_Point_REIT_Income_Statement_Q2_2025.pdf",
+      "Harbor_Point_REIT_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "loanToValue": 60.38,
+      "occupancyRate": 89.24,
+      "debtServiceCoverage": 1.58
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-81a77e83",
+    "borrowerId": "BRW-ec83b095",
+    "borrowerName": "Harbor Point REIT",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-11-02",
+    "receivedDate": "2025-11-03T13:00:00Z",
+    "documents": [
+      "Harbor_Point_REIT_Income_Statement_Q3_2025.pdf",
+      "Harbor_Point_REIT_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "loanToValue": 60.17,
+      "occupancyRate": 94.99,
+      "debtServiceCoverage": 1.52
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-1a5ba41d",
+    "borrowerId": "BRW-1128b537",
+    "borrowerName": "Summit Realty Advisors",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-31",
+    "receivedDate": "2025-01-31T19:00:00Z",
+    "documents": [
+      "Summit_Realty_Advisors_Income_Statement_Q4_2024.pdf",
+      "Summit_Realty_Advisors_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "occupancyRate": 125.64,
+      "loanToValue": 50.63,
+      "debtServiceCoverage": 1.5
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-4c70ab89",
+    "borrowerId": "BRW-1128b537",
+    "borrowerName": "Summit Realty Advisors",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-26",
+    "receivedDate": "2025-04-26T05:00:00Z",
+    "documents": [
+      "Summit_Realty_Advisors_Income_Statement_Q1_2025.pdf",
+      "Summit_Realty_Advisors_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "occupancyRate": 127.41,
+      "loanToValue": 42.09,
+      "debtServiceCoverage": 1.41
+    },
+    "extractionConfidence": 0.89,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-b5be8a13",
+    "borrowerId": "BRW-1128b537",
+    "borrowerName": "Summit Realty Advisors",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-06",
+    "receivedDate": "2025-08-06T17:00:00Z",
+    "documents": [
+      "Summit_Realty_Advisors_Income_Statement_Q2_2025.pdf",
+      "Summit_Realty_Advisors_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "occupancyRate": 92.45,
+      "loanToValue": 37.99,
+      "debtServiceCoverage": 1.44
+    },
+    "extractionConfidence": 0.93,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-e50925f9",
+    "borrowerId": "BRW-1128b537",
+    "borrowerName": "Summit Realty Advisors",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-14",
+    "receivedDate": "2025-10-15T19:00:00Z",
+    "documents": [
+      "Summit_Realty_Advisors_Income_Statement_Q3_2025.pdf",
+      "Summit_Realty_Advisors_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "occupancyRate": 110.51,
+      "loanToValue": 55.16,
+      "debtServiceCoverage": 1.49
+    },
+    "extractionConfidence": 0.94,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-f2d1a45c",
+    "borrowerId": "BRW-93c0d405",
+    "borrowerName": "Irongate Property Corp",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-25",
+    "receivedDate": "2025-01-25T12:00:00Z",
+    "documents": [
+      "Irongate_Property_Corp_Income_Statement_Q4_2024.pdf",
+      "Irongate_Property_Corp_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "loanToValue": 58.86,
+      "debtServiceCoverage": 1.43,
+      "occupancyRate": 88.17
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-a6aab2c8",
+    "borrowerId": "BRW-93c0d405",
+    "borrowerName": "Irongate Property Corp",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-14",
+    "receivedDate": "2025-04-15T15:00:00Z",
+    "documents": [
+      "Irongate_Property_Corp_Income_Statement_Q1_2025.pdf",
+      "Irongate_Property_Corp_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "loanToValue": 59.76,
+      "debtServiceCoverage": 1.32,
+      "occupancyRate": 89.58
+    },
+    "extractionConfidence": 0.98,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-e6044eb2",
+    "borrowerId": "BRW-93c0d405",
+    "borrowerName": "Irongate Property Corp",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-03",
+    "receivedDate": "2025-08-04T01:00:00Z",
+    "documents": [
+      "Irongate_Property_Corp_Income_Statement_Q2_2025.pdf",
+      "Irongate_Property_Corp_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "loanToValue": 55.1,
+      "debtServiceCoverage": 1.37,
+      "occupancyRate": 90.89
+    },
+    "extractionConfidence": 0.88,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-f446ce31",
+    "borrowerId": "BRW-93c0d405",
+    "borrowerName": "Irongate Property Corp",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-11-02",
+    "receivedDate": "2025-11-02T23:00:00Z",
+    "documents": [
+      "Irongate_Property_Corp_Income_Statement_Q3_2025.pdf",
+      "Irongate_Property_Corp_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "loanToValue": 53.88,
+      "debtServiceCoverage": 1.34,
+      "occupancyRate": 92.58
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-3e588b55",
+    "borrowerId": "BRW-12a73fe1",
+    "borrowerName": "Northstar Development LLC",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-24",
+    "receivedDate": "2025-01-25T02:00:00Z",
+    "documents": [
+      "Northstar_Development_LLC_Income_Statement_Q4_2024.pdf",
+      "Northstar_Development_LLC_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "debtServiceCoverage": 1.58,
+      "loanToValue": 63.52,
+      "occupancyRate": 101.16
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-821fdf93",
+    "borrowerId": "BRW-12a73fe1",
+    "borrowerName": "Northstar Development LLC",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-17",
+    "receivedDate": "2025-04-18T01:00:00Z",
+    "documents": [
+      "Northstar_Development_LLC_Income_Statement_Q1_2025.pdf",
+      "Northstar_Development_LLC_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "debtServiceCoverage": 1.62,
+      "loanToValue": 62.88,
+      "occupancyRate": 94.31
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-e3eab85b",
+    "borrowerId": "BRW-12a73fe1",
+    "borrowerName": "Northstar Development LLC",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-23",
+    "receivedDate": "2025-07-23T01:00:00Z",
+    "documents": [
+      "Northstar_Development_LLC_Income_Statement_Q2_2025.pdf",
+      "Northstar_Development_LLC_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "debtServiceCoverage": 1.55,
+      "loanToValue": 65.93,
+      "occupancyRate": 95.5
+    },
+    "extractionConfidence": 0.89,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-0c5c02a0",
+    "borrowerId": "BRW-12a73fe1",
+    "borrowerName": "Northstar Development LLC",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-26",
+    "receivedDate": "2025-10-27T20:00:00Z",
+    "documents": [
+      "Northstar_Development_LLC_Income_Statement_Q3_2025.pdf",
+      "Northstar_Development_LLC_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "debtServiceCoverage": 1.66,
+      "loanToValue": 60.68,
+      "occupancyRate": 96.99
+    },
+    "extractionConfidence": 0.9,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-3fffd95e",
+    "borrowerId": "BRW-0bea09de",
+    "borrowerName": "Citadel Commercial Trust",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-06",
+    "receivedDate": "2025-02-07T04:00:00Z",
+    "documents": [
+      "Citadel_Commercial_Trust_Income_Statement_Q4_2024.pdf",
+      "Citadel_Commercial_Trust_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "occupancyRate": 109.5,
+      "debtServiceCoverage": 2.07,
+      "loanToValue": 34.56
+    },
+    "extractionConfidence": 0.89,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-d64988ce",
+    "borrowerId": "BRW-0bea09de",
+    "borrowerName": "Citadel Commercial Trust",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-05-05",
+    "receivedDate": "2025-05-05T07:00:00Z",
+    "documents": [
+      "Citadel_Commercial_Trust_Income_Statement_Q1_2025.pdf",
+      "Citadel_Commercial_Trust_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "occupancyRate": 95.66,
+      "debtServiceCoverage": 2.02,
+      "loanToValue": 38.39
+    },
+    "extractionConfidence": 0.94,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-53ec9456",
+    "borrowerId": "BRW-0bea09de",
+    "borrowerName": "Citadel Commercial Trust",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-17",
+    "receivedDate": "2025-07-18T23:00:00Z",
+    "documents": [
+      "Citadel_Commercial_Trust_Income_Statement_Q2_2025.pdf",
+      "Citadel_Commercial_Trust_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "occupancyRate": 111.89,
+      "debtServiceCoverage": 2.15,
+      "loanToValue": 39.58
+    },
+    "extractionConfidence": 0.94,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-dbdf4d07",
+    "borrowerId": "BRW-0bea09de",
+    "borrowerName": "Citadel Commercial Trust",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-15",
+    "receivedDate": "2025-10-15T21:00:00Z",
+    "documents": [
+      "Citadel_Commercial_Trust_Income_Statement_Q3_2025.pdf",
+      "Citadel_Commercial_Trust_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "occupancyRate": 107.05,
+      "debtServiceCoverage": 2.08,
+      "loanToValue": 45.91
+    },
+    "extractionConfidence": 0.85,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-80c59fce",
+    "borrowerId": "BRW-1e128b0e",
+    "borrowerName": "Grandview Real Estate Partners",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-26",
+    "receivedDate": "2025-01-26T07:00:00Z",
+    "documents": [
+      "Grandview_Real_Estate_Partners_Income_Statement_Q4_2024.pdf",
+      "Grandview_Real_Estate_Partners_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "occupancyRate": 112.7,
+      "loanToValue": 58.13,
+      "debtServiceCoverage": 1.42
+    },
+    "extractionConfidence": 0.88,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-4b1d15ab",
+    "borrowerId": "BRW-1e128b0e",
+    "borrowerName": "Grandview Real Estate Partners",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-11",
+    "receivedDate": "2025-04-11T02:00:00Z",
+    "documents": [
+      "Grandview_Real_Estate_Partners_Income_Statement_Q1_2025.pdf",
+      "Grandview_Real_Estate_Partners_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "occupancyRate": 111.17,
+      "loanToValue": 52.7,
+      "debtServiceCoverage": 1.38
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-c3d6b607",
+    "borrowerId": "BRW-1e128b0e",
+    "borrowerName": "Grandview Real Estate Partners",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-16",
+    "receivedDate": "2025-07-17T15:00:00Z",
+    "documents": [
+      "Grandview_Real_Estate_Partners_Income_Statement_Q2_2025.pdf",
+      "Grandview_Real_Estate_Partners_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "occupancyRate": 111.6,
+      "loanToValue": 99.44,
+      "debtServiceCoverage": 1.24
+    },
+    "extractionConfidence": 0.96,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-e6e9bfda",
+    "borrowerId": "BRW-1e128b0e",
+    "borrowerName": "Grandview Real Estate Partners",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-14",
+    "receivedDate": "2025-10-15T01:00:00Z",
+    "documents": [
+      "Grandview_Real_Estate_Partners_Income_Statement_Q3_2025.pdf",
+      "Grandview_Real_Estate_Partners_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "occupancyRate": 112.02,
+      "loanToValue": 104.4,
+      "debtServiceCoverage": 1.37
+    },
+    "extractionConfidence": 0.98,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-e7cdc002",
+    "borrowerId": "BRW-126f12da",
+    "borrowerName": "Trident Property Group",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-01",
+    "receivedDate": "2025-02-01T12:00:00Z",
+    "documents": [
+      "Trident_Property_Group_Income_Statement_Q4_2024.pdf",
+      "Trident_Property_Group_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "debtServiceCoverage": 1.56,
+      "occupancyRate": 105.45,
+      "loanToValue": 60.51
+    },
+    "extractionConfidence": 0.93,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-038d6824",
+    "borrowerId": "BRW-126f12da",
+    "borrowerName": "Trident Property Group",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-05-09",
+    "receivedDate": "2025-05-09T18:00:00Z",
+    "documents": [
+      "Trident_Property_Group_Income_Statement_Q1_2025.pdf",
+      "Trident_Property_Group_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "debtServiceCoverage": 1.74,
+      "occupancyRate": 110.54,
+      "loanToValue": 54.98
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-49dc2bec",
+    "borrowerId": "BRW-126f12da",
+    "borrowerName": "Trident Property Group",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-18",
+    "receivedDate": "2025-07-18T11:00:00Z",
+    "documents": [
+      "Trident_Property_Group_Income_Statement_Q2_2025.pdf",
+      "Trident_Property_Group_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "debtServiceCoverage": 1.74,
+      "occupancyRate": 101.16,
+      "loanToValue": 42.51
+    },
+    "extractionConfidence": 0.9,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-003f24c1",
+    "borrowerId": "BRW-126f12da",
+    "borrowerName": "Trident Property Group",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-11",
+    "receivedDate": "2025-10-11T17:00:00Z",
+    "documents": [
+      "Trident_Property_Group_Income_Statement_Q3_2025.pdf",
+      "Trident_Property_Group_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "debtServiceCoverage": 1.8,
+      "occupancyRate": 72.57,
+      "loanToValue": 50.3
+    },
+    "extractionConfidence": 0.91,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-a65609d6",
+    "borrowerId": "BRW-e1b9983e",
+    "borrowerName": "Brightside Retail Group",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-08",
+    "receivedDate": "2025-02-08T13:00:00Z",
+    "documents": [
+      "Brightside_Retail_Group_Income_Statement_Q4_2024.pdf",
+      "Brightside_Retail_Group_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.21,
+      "ebitda": 7.09,
+      "debtToEBITDA": 4.05
+    },
+    "extractionConfidence": 0.87,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-76e3f475",
+    "borrowerId": "BRW-e1b9983e",
+    "borrowerName": "Brightside Retail Group",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-05-04",
+    "receivedDate": "2025-05-05T04:00:00Z",
+    "documents": [
+      "Brightside_Retail_Group_Income_Statement_Q1_2025.pdf",
+      "Brightside_Retail_Group_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.16,
+      "ebitda": 7.45,
+      "debtToEBITDA": 4.25
+    },
+    "extractionConfidence": 0.94,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-795298ee",
+    "borrowerId": "BRW-e1b9983e",
+    "borrowerName": "Brightside Retail Group",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-13",
+    "receivedDate": "2025-07-13T03:00:00Z",
+    "documents": [
+      "Brightside_Retail_Group_Income_Statement_Q2_2025.pdf",
+      "Brightside_Retail_Group_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.14,
+      "ebitda": 7.39,
+      "debtToEBITDA": 3.94
+    },
+    "extractionConfidence": 0.91,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-46767456",
+    "borrowerId": "BRW-e1b9983e",
+    "borrowerName": "Brightside Retail Group",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-11-07",
+    "receivedDate": "2025-11-08T08:00:00Z",
+    "documents": [
+      "Brightside_Retail_Group_Income_Statement_Q3_2025.pdf",
+      "Brightside_Retail_Group_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.15,
+      "ebitda": 7.44,
+      "debtToEBITDA": 4.26
+    },
+    "extractionConfidence": 0.94,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-b66fa32d",
+    "borrowerId": "BRW-113e36e4",
+    "borrowerName": "Cascade Consumer Brands",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-14",
+    "receivedDate": "2025-01-15T21:00:00Z",
+    "documents": [
+      "Cascade_Consumer_Brands_Income_Statement_Q4_2024.pdf",
+      "Cascade_Consumer_Brands_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.09,
+      "inventoryTurnover": 4.16,
+      "ebitda": 7.2,
+      "fixedChargeCoverage": 1.3
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-5ff66914",
+    "borrowerId": "BRW-113e36e4",
+    "borrowerName": "Cascade Consumer Brands",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-25",
+    "receivedDate": "2025-04-26T04:00:00Z",
+    "documents": [
+      "Cascade_Consumer_Brands_Income_Statement_Q1_2025.pdf",
+      "Cascade_Consumer_Brands_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.19,
+      "inventoryTurnover": 4.46,
+      "ebitda": 8.22,
+      "fixedChargeCoverage": 1.13
+    },
+    "extractionConfidence": 0.88,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-889b9f3c",
+    "borrowerId": "BRW-113e36e4",
+    "borrowerName": "Cascade Consumer Brands",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-22",
+    "receivedDate": "2025-07-23T21:00:00Z",
+    "documents": [
+      "Cascade_Consumer_Brands_Income_Statement_Q2_2025.pdf",
+      "Cascade_Consumer_Brands_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.74,
+      "inventoryTurnover": 4.24,
+      "ebitda": 5.35,
+      "fixedChargeCoverage": 1.36
+    },
+    "extractionConfidence": 0.9,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-8af8cc9f",
+    "borrowerId": "BRW-113e36e4",
+    "borrowerName": "Cascade Consumer Brands",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-31",
+    "receivedDate": "2025-10-31T20:00:00Z",
+    "documents": [
+      "Cascade_Consumer_Brands_Income_Statement_Q3_2025.pdf",
+      "Cascade_Consumer_Brands_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.18,
+      "inventoryTurnover": 4.37,
+      "ebitda": 6.12,
+      "fixedChargeCoverage": 1.14
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-321b01f1",
+    "borrowerId": "BRW-82e3e884",
+    "borrowerName": "Horizon Stores Inc",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-09",
+    "receivedDate": "2025-02-09T22:00:00Z",
+    "documents": [
+      "Horizon_Stores_Inc_Income_Statement_Q4_2024.pdf",
+      "Horizon_Stores_Inc_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.36,
+      "debtToEBITDA": 2.93,
+      "ebitda": 12.93
+    },
+    "extractionConfidence": 0.93,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-fea5bd31",
+    "borrowerId": "BRW-82e3e884",
+    "borrowerName": "Horizon Stores Inc",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-15",
+    "receivedDate": "2025-04-16T12:00:00Z",
+    "documents": [
+      "Horizon_Stores_Inc_Income_Statement_Q1_2025.pdf",
+      "Horizon_Stores_Inc_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.33,
+      "debtToEBITDA": 2.82,
+      "ebitda": 10.42
+    },
+    "extractionConfidence": 0.94,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-4000a1d1",
+    "borrowerId": "BRW-82e3e884",
+    "borrowerName": "Horizon Stores Inc",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-07",
+    "receivedDate": "2025-08-07T07:00:00Z",
+    "documents": [
+      "Horizon_Stores_Inc_Income_Statement_Q2_2025.pdf",
+      "Horizon_Stores_Inc_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.68,
+      "debtToEBITDA": 2.78,
+      "ebitda": 9.96
+    },
+    "extractionConfidence": 0.93,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-7ed413c3",
+    "borrowerId": "BRW-82e3e884",
+    "borrowerName": "Horizon Stores Inc",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-11-02",
+    "receivedDate": "2025-11-02T13:00:00Z",
+    "documents": [
+      "Horizon_Stores_Inc_Income_Statement_Q3_2025.pdf",
+      "Horizon_Stores_Inc_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.39,
+      "debtToEBITDA": 2.52,
+      "ebitda": 12.73
+    },
+    "extractionConfidence": 0.93,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-b7e36b9f",
+    "borrowerId": "BRW-0c4891bf",
+    "borrowerName": "Parkway Retail Holdings",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-25",
+    "receivedDate": "2025-01-26T01:00:00Z",
+    "documents": [
+      "Parkway_Retail_Holdings_Income_Statement_Q4_2024.pdf",
+      "Parkway_Retail_Holdings_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 2.19,
+      "fixedChargeCoverage": 1.45,
+      "ebitda": 10.01
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-f26ecd75",
+    "borrowerId": "BRW-0c4891bf",
+    "borrowerName": "Parkway Retail Holdings",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-05-06",
+    "receivedDate": "2025-05-07T05:00:00Z",
+    "documents": [
+      "Parkway_Retail_Holdings_Income_Statement_Q1_2025.pdf",
+      "Parkway_Retail_Holdings_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.51,
+      "fixedChargeCoverage": 1.17,
+      "ebitda": 10.13
+    },
+    "extractionConfidence": 0.89,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-452e0603",
+    "borrowerId": "BRW-0c4891bf",
+    "borrowerName": "Parkway Retail Holdings",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-02",
+    "receivedDate": "2025-08-02T03:00:00Z",
+    "documents": [
+      "Parkway_Retail_Holdings_Income_Statement_Q2_2025.pdf",
+      "Parkway_Retail_Holdings_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 2.69,
+      "fixedChargeCoverage": 1.28,
+      "ebitda": 11.39
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-d5be6934",
+    "borrowerId": "BRW-0c4891bf",
+    "borrowerName": "Parkway Retail Holdings",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-11-09",
+    "receivedDate": "2025-11-10T20:00:00Z",
+    "documents": [
+      "Parkway_Retail_Holdings_Income_Statement_Q3_2025.pdf",
+      "Parkway_Retail_Holdings_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.37,
+      "fixedChargeCoverage": 1.45,
+      "ebitda": 11.73
+    },
+    "extractionConfidence": 0.88,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-34b38230",
+    "borrowerId": "BRW-f8044a10",
+    "borrowerName": "Crestline Fashion Corp",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-11",
+    "receivedDate": "2025-01-13T00:00:00Z",
+    "documents": [
+      "Crestline_Fashion_Corp_Income_Statement_Q4_2024.pdf",
+      "Crestline_Fashion_Corp_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.41,
+      "ebitda": 9.62,
+      "debtToEBITDA": 3.38
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-9eab431a",
+    "borrowerId": "BRW-f8044a10",
+    "borrowerName": "Crestline Fashion Corp",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-11",
+    "receivedDate": "2025-04-11T16:00:00Z",
+    "documents": [
+      "Crestline_Fashion_Corp_Income_Statement_Q1_2025.pdf",
+      "Crestline_Fashion_Corp_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.59,
+      "ebitda": 8.83,
+      "debtToEBITDA": 2.97
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-de229fb5",
+    "borrowerId": "BRW-f8044a10",
+    "borrowerName": "Crestline Fashion Corp",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-19",
+    "receivedDate": "2025-07-19T07:00:00Z",
+    "documents": [
+      "Crestline_Fashion_Corp_Income_Statement_Q2_2025.pdf",
+      "Crestline_Fashion_Corp_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.51,
+      "ebitda": 5.48,
+      "debtToEBITDA": 3.54
+    },
+    "extractionConfidence": 0.96,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-ad70af02",
+    "borrowerId": "BRW-f8044a10",
+    "borrowerName": "Crestline Fashion Corp",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-13",
+    "receivedDate": "2025-10-13T08:00:00Z",
+    "documents": [
+      "Crestline_Fashion_Corp_Income_Statement_Q3_2025.pdf",
+      "Crestline_Fashion_Corp_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.53,
+      "ebitda": 6.97,
+      "debtToEBITDA": 3.04
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-f1c25d50",
+    "borrowerId": "BRW-870acc76",
+    "borrowerName": "Summit Grocery Chain",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-20",
+    "receivedDate": "2025-01-22T00:00:00Z",
+    "documents": [
+      "Summit_Grocery_Chain_Income_Statement_Q4_2024.pdf",
+      "Summit_Grocery_Chain_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "inventoryTurnover": 5.15,
+      "debtToEBITDA": 3.2,
+      "fixedChargeCoverage": 1.5
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-e2e1a297",
+    "borrowerId": "BRW-870acc76",
+    "borrowerName": "Summit Grocery Chain",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-14",
+    "receivedDate": "2025-04-14T21:00:00Z",
+    "documents": [
+      "Summit_Grocery_Chain_Income_Statement_Q1_2025.pdf",
+      "Summit_Grocery_Chain_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "inventoryTurnover": 5.31,
+      "debtToEBITDA": 3.68,
+      "fixedChargeCoverage": 1.44
+    },
+    "extractionConfidence": 0.93,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-785ad08a",
+    "borrowerId": "BRW-870acc76",
+    "borrowerName": "Summit Grocery Chain",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-20",
+    "receivedDate": "2025-07-20T05:00:00Z",
+    "documents": [
+      "Summit_Grocery_Chain_Income_Statement_Q2_2025.pdf",
+      "Summit_Grocery_Chain_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "inventoryTurnover": 4.56,
+      "debtToEBITDA": 4.71,
+      "fixedChargeCoverage": 1.34
+    },
+    "extractionConfidence": 0.94,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-a1533782",
+    "borrowerId": "BRW-870acc76",
+    "borrowerName": "Summit Grocery Chain",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-27",
+    "receivedDate": "2025-10-27T11:00:00Z",
+    "documents": [
+      "Summit_Grocery_Chain_Income_Statement_Q3_2025.pdf",
+      "Summit_Grocery_Chain_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "inventoryTurnover": 4.89,
+      "debtToEBITDA": 5.84,
+      "fixedChargeCoverage": 1.23
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-c7d1f959",
+    "borrowerId": "BRW-08626dd9",
+    "borrowerName": "Evergreen Home Goods",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-06",
+    "receivedDate": "2025-02-07T17:00:00Z",
+    "documents": [
+      "Evergreen_Home_Goods_Income_Statement_Q4_2024.pdf",
+      "Evergreen_Home_Goods_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.56,
+      "ebitda": 10.85,
+      "debtToEBITDA": 1.9,
+      "inventoryTurnover": 4.58
+    },
+    "extractionConfidence": 0.85,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-9cd2e297",
+    "borrowerId": "BRW-08626dd9",
+    "borrowerName": "Evergreen Home Goods",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-15",
+    "receivedDate": "2025-04-15T06:00:00Z",
+    "documents": [
+      "Evergreen_Home_Goods_Income_Statement_Q1_2025.pdf",
+      "Evergreen_Home_Goods_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.61,
+      "ebitda": 10.18,
+      "debtToEBITDA": 2.25,
+      "inventoryTurnover": 4.93
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-1b897414",
+    "borrowerId": "BRW-08626dd9",
+    "borrowerName": "Evergreen Home Goods",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-25",
+    "receivedDate": "2025-07-26T21:00:00Z",
+    "documents": [
+      "Evergreen_Home_Goods_Income_Statement_Q2_2025.pdf",
+      "Evergreen_Home_Goods_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.29,
+      "ebitda": 8.54,
+      "debtToEBITDA": 2.23,
+      "inventoryTurnover": 4.52
+    },
+    "extractionConfidence": 0.88,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-93884c04",
+    "borrowerId": "BRW-08626dd9",
+    "borrowerName": "Evergreen Home Goods",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-15",
+    "receivedDate": "2025-10-16T16:00:00Z",
+    "documents": [
+      "Evergreen_Home_Goods_Income_Statement_Q3_2025.pdf",
+      "Evergreen_Home_Goods_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.6,
+      "ebitda": 10.19,
+      "debtToEBITDA": 2.82,
+      "inventoryTurnover": 4.79
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-c5208978",
+    "borrowerId": "BRW-54077ce6",
+    "borrowerName": "NovaMart Holdings",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-21",
+    "receivedDate": "2025-01-22T03:00:00Z",
+    "documents": [
+      "NovaMart_Holdings_Income_Statement_Q4_2024.pdf",
+      "NovaMart_Holdings_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 2.74,
+      "fixedChargeCoverage": 1.25,
+      "ebitda": 9.34
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-73bbd9a1",
+    "borrowerId": "BRW-54077ce6",
+    "borrowerName": "NovaMart Holdings",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-13",
+    "receivedDate": "2025-04-14T16:00:00Z",
+    "documents": [
+      "NovaMart_Holdings_Income_Statement_Q1_2025.pdf",
+      "NovaMart_Holdings_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.22,
+      "fixedChargeCoverage": 1.4,
+      "ebitda": 10.02
+    },
+    "extractionConfidence": 0.88,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-9a3fd85d",
+    "borrowerId": "BRW-54077ce6",
+    "borrowerName": "NovaMart Holdings",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-03",
+    "receivedDate": "2025-08-04T17:00:00Z",
+    "documents": [
+      "NovaMart_Holdings_Income_Statement_Q2_2025.pdf",
+      "NovaMart_Holdings_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.63,
+      "fixedChargeCoverage": 1.26,
+      "ebitda": 5.87
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-c6ee5be4",
+    "borrowerId": "BRW-54077ce6",
+    "borrowerName": "NovaMart Holdings",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-31",
+    "receivedDate": "2025-11-01T07:00:00Z",
+    "documents": [
+      "NovaMart_Holdings_Income_Statement_Q3_2025.pdf",
+      "NovaMart_Holdings_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.41,
+      "fixedChargeCoverage": 1.23,
+      "ebitda": 7.7
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-1f85a88f",
+    "borrowerId": "BRW-d4806206",
+    "borrowerName": "Stellar Brands Inc",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-21",
+    "receivedDate": "2025-01-21T19:00:00Z",
+    "documents": [
+      "Stellar_Brands_Inc_Income_Statement_Q4_2024.pdf",
+      "Stellar_Brands_Inc_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.61,
+      "inventoryTurnover": 4.47,
+      "ebitda": 9.87,
+      "debtToEBITDA": 2.78
+    },
+    "extractionConfidence": 0.91,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-eaf7bd48",
+    "borrowerId": "BRW-d4806206",
+    "borrowerName": "Stellar Brands Inc",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-13",
+    "receivedDate": "2025-04-15T00:00:00Z",
+    "documents": [
+      "Stellar_Brands_Inc_Income_Statement_Q1_2025.pdf",
+      "Stellar_Brands_Inc_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.51,
+      "inventoryTurnover": 5.0,
+      "ebitda": 8.26,
+      "debtToEBITDA": 1.74
+    },
+    "extractionConfidence": 0.92,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-1a94f651",
+    "borrowerId": "BRW-d4806206",
+    "borrowerName": "Stellar Brands Inc",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-12",
+    "receivedDate": "2025-07-12T16:00:00Z",
+    "documents": [
+      "Stellar_Brands_Inc_Income_Statement_Q2_2025.pdf",
+      "Stellar_Brands_Inc_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.96,
+      "inventoryTurnover": 5.1,
+      "ebitda": 8.85,
+      "debtToEBITDA": 1.95
+    },
+    "extractionConfidence": 0.94,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-5e62d5ff",
+    "borrowerId": "BRW-d4806206",
+    "borrowerName": "Stellar Brands Inc",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-20",
+    "receivedDate": "2025-10-20T15:00:00Z",
+    "documents": [
+      "Stellar_Brands_Inc_Income_Statement_Q3_2025.pdf",
+      "Stellar_Brands_Inc_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 2.0,
+      "inventoryTurnover": 4.61,
+      "ebitda": 8.05,
+      "debtToEBITDA": 2.59
+    },
+    "extractionConfidence": 0.96,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-2357d774",
+    "borrowerId": "BRW-470d1944",
+    "borrowerName": "TrueNorth Retail Corp",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-22",
+    "receivedDate": "2025-01-22T15:00:00Z",
+    "documents": [
+      "TrueNorth_Retail_Corp_Income_Statement_Q4_2024.pdf",
+      "TrueNorth_Retail_Corp_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "ebitda": 8.81,
+      "inventoryTurnover": 6.34,
+      "debtToEBITDA": 2.33,
+      "fixedChargeCoverage": 1.48
+    },
+    "extractionConfidence": 0.88,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-90abb061",
+    "borrowerId": "BRW-470d1944",
+    "borrowerName": "TrueNorth Retail Corp",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-29",
+    "receivedDate": "2025-04-30T06:00:00Z",
+    "documents": [
+      "TrueNorth_Retail_Corp_Income_Statement_Q1_2025.pdf",
+      "TrueNorth_Retail_Corp_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "ebitda": 9.21,
+      "inventoryTurnover": 5.85,
+      "debtToEBITDA": 2.96,
+      "fixedChargeCoverage": 1.34
+    },
+    "extractionConfidence": 0.9,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-5b798fa3",
+    "borrowerId": "BRW-470d1944",
+    "borrowerName": "TrueNorth Retail Corp",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-18",
+    "receivedDate": "2025-07-18T13:00:00Z",
+    "documents": [
+      "TrueNorth_Retail_Corp_Income_Statement_Q2_2025.pdf",
+      "TrueNorth_Retail_Corp_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "ebitda": 9.83,
+      "inventoryTurnover": 5.08,
+      "debtToEBITDA": 3.14,
+      "fixedChargeCoverage": 1.39
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-890d1871",
+    "borrowerId": "BRW-470d1944",
+    "borrowerName": "TrueNorth Retail Corp",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-24",
+    "receivedDate": "2025-10-25T06:00:00Z",
+    "documents": [
+      "TrueNorth_Retail_Corp_Income_Statement_Q3_2025.pdf",
+      "TrueNorth_Retail_Corp_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "ebitda": 10.15,
+      "inventoryTurnover": 6.73,
+      "debtToEBITDA": 2.59,
+      "fixedChargeCoverage": 1.4
+    },
+    "extractionConfidence": 0.87,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-dba1d4ce",
+    "borrowerId": "BRW-74933688",
+    "borrowerName": "Prism Lifestyle Co",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-02-04",
+    "receivedDate": "2025-02-05T17:00:00Z",
+    "documents": [
+      "Prism_Lifestyle_Co_Income_Statement_Q4_2024.pdf",
+      "Prism_Lifestyle_Co_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 2.0,
+      "inventoryTurnover": 6.15,
+      "debtToEBITDA": 3.0,
+      "ebitda": 11.52
+    },
+    "extractionConfidence": 0.88,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-d544ae0e",
+    "borrowerId": "BRW-74933688",
+    "borrowerName": "Prism Lifestyle Co",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-23",
+    "receivedDate": "2025-04-24T10:00:00Z",
+    "documents": [
+      "Prism_Lifestyle_Co_Income_Statement_Q1_2025.pdf",
+      "Prism_Lifestyle_Co_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.71,
+      "inventoryTurnover": 6.33,
+      "debtToEBITDA": 3.02,
+      "ebitda": 12.71
+    },
+    "extractionConfidence": 0.89,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-c130392c",
+    "borrowerId": "BRW-74933688",
+    "borrowerName": "Prism Lifestyle Co",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-02",
+    "receivedDate": "2025-08-03T04:00:00Z",
+    "documents": [
+      "Prism_Lifestyle_Co_Income_Statement_Q2_2025.pdf",
+      "Prism_Lifestyle_Co_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.86,
+      "inventoryTurnover": 4.84,
+      "debtToEBITDA": 2.62,
+      "ebitda": 11.63
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-0f20e6da",
+    "borrowerId": "BRW-74933688",
+    "borrowerName": "Prism Lifestyle Co",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-28",
+    "receivedDate": "2025-10-28T10:00:00Z",
+    "documents": [
+      "Prism_Lifestyle_Co_Income_Statement_Q3_2025.pdf",
+      "Prism_Lifestyle_Co_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.98,
+      "inventoryTurnover": 6.13,
+      "debtToEBITDA": 2.76,
+      "ebitda": 9.39
+    },
+    "extractionConfidence": 0.98,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-26a3f227",
+    "borrowerId": "BRW-a8f49d86",
+    "borrowerName": "Atlas Direct Commerce",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-23",
+    "receivedDate": "2025-01-24T10:00:00Z",
+    "documents": [
+      "Atlas_Direct_Commerce_Income_Statement_Q4_2024.pdf",
+      "Atlas_Direct_Commerce_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.4,
+      "ebitda": 9.22,
+      "debtToEBITDA": 3.56
+    },
+    "extractionConfidence": 0.86,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-89c62f62",
+    "borrowerId": "BRW-a8f49d86",
+    "borrowerName": "Atlas Direct Commerce",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-25",
+    "receivedDate": "2025-04-25T16:00:00Z",
+    "documents": [
+      "Atlas_Direct_Commerce_Income_Statement_Q1_2025.pdf",
+      "Atlas_Direct_Commerce_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.31,
+      "ebitda": 9.11,
+      "debtToEBITDA": 3.55
+    },
+    "extractionConfidence": 0.9,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-f94aaea5",
+    "borrowerId": "BRW-a8f49d86",
+    "borrowerName": "Atlas Direct Commerce",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-16",
+    "receivedDate": "2025-07-16T09:00:00Z",
+    "documents": [
+      "Atlas_Direct_Commerce_Income_Statement_Q2_2025.pdf",
+      "Atlas_Direct_Commerce_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.39,
+      "ebitda": 8.17,
+      "debtToEBITDA": 3.96
+    },
+    "extractionConfidence": 0.85,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-21cfadd1",
+    "borrowerId": "BRW-a8f49d86",
+    "borrowerName": "Atlas Direct Commerce",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-31",
+    "receivedDate": "2025-10-31T20:00:00Z",
+    "documents": [
+      "Atlas_Direct_Commerce_Income_Statement_Q3_2025.pdf",
+      "Atlas_Direct_Commerce_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 0.95,
+      "ebitda": 8.57,
+      "debtToEBITDA": 3.39
+    },
+    "extractionConfidence": 0.93,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-333f9ccd",
+    "borrowerId": "BRW-94f454e0",
+    "borrowerName": "Beacon Outlet Group",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-24",
+    "receivedDate": "2025-01-25T06:00:00Z",
+    "documents": [
+      "Beacon_Outlet_Group_Income_Statement_Q4_2024.pdf",
+      "Beacon_Outlet_Group_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.43,
+      "inventoryTurnover": 5.99,
+      "fixedChargeCoverage": 1.6,
+      "ebitda": 10.94
+    },
+    "extractionConfidence": 0.9,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-7ad05077",
+    "borrowerId": "BRW-94f454e0",
+    "borrowerName": "Beacon Outlet Group",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-24",
+    "receivedDate": "2025-04-25T22:00:00Z",
+    "documents": [
+      "Beacon_Outlet_Group_Income_Statement_Q1_2025.pdf",
+      "Beacon_Outlet_Group_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.22,
+      "inventoryTurnover": 5.97,
+      "fixedChargeCoverage": 1.4,
+      "ebitda": 11.32
+    },
+    "extractionConfidence": 0.89,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-c6530ce2",
+    "borrowerId": "BRW-94f454e0",
+    "borrowerName": "Beacon Outlet Group",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-11",
+    "receivedDate": "2025-07-11T19:00:00Z",
+    "documents": [
+      "Beacon_Outlet_Group_Income_Statement_Q2_2025.pdf",
+      "Beacon_Outlet_Group_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 2.89,
+      "inventoryTurnover": 4.82,
+      "fixedChargeCoverage": 1.93,
+      "ebitda": 10.04
+    },
+    "extractionConfidence": 0.95,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-61345ebe",
+    "borrowerId": "BRW-94f454e0",
+    "borrowerName": "Beacon Outlet Group",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-11-04",
+    "receivedDate": "2025-11-05T20:00:00Z",
+    "documents": [
+      "Beacon_Outlet_Group_Income_Statement_Q3_2025.pdf",
+      "Beacon_Outlet_Group_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 2.36,
+      "inventoryTurnover": 6.01,
+      "fixedChargeCoverage": 1.81,
+      "ebitda": 8.25
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-10d92978",
+    "borrowerId": "BRW-ee388d5a",
+    "borrowerName": "Zenith Consumer Corp",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-31",
+    "receivedDate": "2025-02-01T00:00:00Z",
+    "documents": [
+      "Zenith_Consumer_Corp_Income_Statement_Q4_2024.pdf",
+      "Zenith_Consumer_Corp_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.79,
+      "debtToEBITDA": 1.89,
+      "ebitda": 10.87,
+      "inventoryTurnover": 5.6
+    },
+    "extractionConfidence": 0.9,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-9f1314a9",
+    "borrowerId": "BRW-ee388d5a",
+    "borrowerName": "Zenith Consumer Corp",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-15",
+    "receivedDate": "2025-04-16T18:00:00Z",
+    "documents": [
+      "Zenith_Consumer_Corp_Income_Statement_Q1_2025.pdf",
+      "Zenith_Consumer_Corp_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.6,
+      "debtToEBITDA": 1.84,
+      "ebitda": 12.32,
+      "inventoryTurnover": 4.77
+    },
+    "extractionConfidence": 0.98,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-5d957fc2",
+    "borrowerId": "BRW-ee388d5a",
+    "borrowerName": "Zenith Consumer Corp",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-07-17",
+    "receivedDate": "2025-07-18T11:00:00Z",
+    "documents": [
+      "Zenith_Consumer_Corp_Income_Statement_Q2_2025.pdf",
+      "Zenith_Consumer_Corp_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.34,
+      "debtToEBITDA": 2.34,
+      "ebitda": 13.29,
+      "inventoryTurnover": 5.52
+    },
+    "extractionConfidence": 0.97,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-ea68a04e",
+    "borrowerId": "BRW-ee388d5a",
+    "borrowerName": "Zenith Consumer Corp",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-10-16",
+    "receivedDate": "2025-10-18T00:00:00Z",
+    "documents": [
+      "Zenith_Consumer_Corp_Income_Statement_Q3_2025.pdf",
+      "Zenith_Consumer_Corp_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "fixedChargeCoverage": 1.72,
+      "debtToEBITDA": 2.15,
+      "ebitda": 13.12,
+      "inventoryTurnover": 5.37
+    },
+    "extractionConfidence": 0.9,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-31af273e",
+    "borrowerId": "BRW-b2be398d",
+    "borrowerName": "Keystone Retail Partners",
+    "quarter": "Q4 2024",
+    "quarterEnd": "2024-12-31",
+    "submittedDate": "2025-01-11",
+    "receivedDate": "2025-01-11T05:00:00Z",
+    "documents": [
+      "Keystone_Retail_Partners_Income_Statement_Q4_2024.pdf",
+      "Keystone_Retail_Partners_Balance_Sheet_Q4_2024.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 2.64,
+      "ebitda": 10.2,
+      "fixedChargeCoverage": 1.43,
+      "inventoryTurnover": 6.01
+    },
+    "extractionConfidence": 0.91,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-a18e4973",
+    "borrowerId": "BRW-b2be398d",
+    "borrowerName": "Keystone Retail Partners",
+    "quarter": "Q1 2025",
+    "quarterEnd": "2025-03-31",
+    "submittedDate": "2025-04-27",
+    "receivedDate": "2025-04-28T20:00:00Z",
+    "documents": [
+      "Keystone_Retail_Partners_Income_Statement_Q1_2025.pdf",
+      "Keystone_Retail_Partners_Balance_Sheet_Q1_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 3.3,
+      "ebitda": 11.92,
+      "fixedChargeCoverage": 1.41,
+      "inventoryTurnover": 5.1
+    },
+    "extractionConfidence": 0.94,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-1bceac5b",
+    "borrowerId": "BRW-b2be398d",
+    "borrowerName": "Keystone Retail Partners",
+    "quarter": "Q2 2025",
+    "quarterEnd": "2025-06-30",
+    "submittedDate": "2025-08-01",
+    "receivedDate": "2025-08-01T05:00:00Z",
+    "documents": [
+      "Keystone_Retail_Partners_Income_Statement_Q2_2025.pdf",
+      "Keystone_Retail_Partners_Balance_Sheet_Q2_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 2.37,
+      "ebitda": 11.86,
+      "fixedChargeCoverage": 1.21,
+      "inventoryTurnover": 5.14
+    },
+    "extractionConfidence": 0.87,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  },
+  {
+    "id": "FIN-349008bc",
+    "borrowerId": "BRW-b2be398d",
+    "borrowerName": "Keystone Retail Partners",
+    "quarter": "Q3 2025",
+    "quarterEnd": "2025-09-30",
+    "submittedDate": "2025-11-09",
+    "receivedDate": "2025-11-09T05:00:00Z",
+    "documents": [
+      "Keystone_Retail_Partners_Income_Statement_Q3_2025.pdf",
+      "Keystone_Retail_Partners_Balance_Sheet_Q3_2025.pdf"
+    ],
+    "metrics": {
+      "debtToEBITDA": 2.25,
+      "ebitda": 9.52,
+      "fixedChargeCoverage": 1.54,
+      "inventoryTurnover": 5.35
+    },
+    "extractionConfidence": 0.96,
+    "status": "Processed",
+    "sourceAgent": "Financials Spotter"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": "PIP-b6d00276",
+    "dealId": "DL-ca709c18",
+    "borrowerId": "BRW-08bea9a1",
+    "borrowerName": "CrestLine Medical Systems",
+    "emailSubject": "Executed Credit Agreement \u2014 CrestLine Medical Systems \u2014 Bilateral Loan \u2014 $50M",
+    "emailFrom": "cravathswainemoore@cravath.com",
+    "emailDate": "2025-07-27T01:00:00Z",
+    "emailSnippet": "Please find attached the fully executed credit agreement for the $50M Bilateral Loan for CrestLine Medical Systems. All conditions precedent have been satisfied.",
+    "attachments": [
+      "CrestLine_Medical_Systems_Credit_Agreement.pdf"
+    ],
+    "detectedBy": "Deal Spotter",
+    "detectionConfidence": 0.95,
+    "status": "Ingested"
+  },
+  {
+    "id": "PIP-7689ee78",
+    "dealId": "DL-8b86737e",
+    "borrowerId": "BRW-923676a3",
+    "borrowerName": "Pinnacle Commercial Partners",
+    "emailSubject": "Executed Credit Agreement \u2014 Pinnacle Commercial Partners \u2014 Term Loan \u2014 $100M",
+    "emailFrom": "davispolkwardwell@davis.com",
+    "emailDate": "2025-07-18T20:00:00Z",
+    "emailSnippet": "Please find attached the fully executed credit agreement for the $100M Term Loan for Pinnacle Commercial Partners. All conditions precedent have been satisfied.",
+    "attachments": [
+      "Pinnacle_Commercial_Partners_Credit_Agreement.pdf"
+    ],
+    "detectedBy": "Deal Spotter",
+    "detectionConfidence": 0.97,
+    "status": "Ingested"
+  },
+  {
+    "id": "PIP-b981f8be",
+    "dealId": "DL-61ec41dd",
+    "borrowerId": "BRW-edba0376",
+    "borrowerName": "Titan Industrial Group",
+    "emailSubject": "Executed Credit Agreement \u2014 Titan Industrial Group \u2014 Term Loan \u2014 $150M",
+    "emailFrom": "skaddenarps@skadden.com",
+    "emailDate": "2025-07-03T17:00:00Z",
+    "emailSnippet": "Please find attached the fully executed credit agreement for the $150M Term Loan for Titan Industrial Group. All conditions precedent have been satisfied.",
+    "attachments": [
+      "Titan_Industrial_Group_Credit_Agreement.pdf"
+    ],
+    "detectedBy": "Deal Spotter",
+    "detectionConfidence": 0.92,
+    "status": "Ingested"
+  },
+  {
+    "id": "PIP-c55b3da3",
+    "dealId": "DL-f7009cc1",
+    "borrowerId": "BRW-126f12da",
+    "borrowerName": "Trident Property Group",
+    "emailSubject": "Executed Credit Agreement \u2014 Trident Property Group \u2014 Term Loan \u2014 $150M",
+    "emailFrom": "davispolkwardwell@davis.com",
+    "emailDate": "2025-06-25T05:00:00Z",
+    "emailSnippet": "Please find attached the fully executed credit agreement for the $150M Term Loan for Trident Property Group. All conditions precedent have been satisfied.",
+    "attachments": [
+      "Trident_Property_Group_Credit_Agreement.pdf"
+    ],
+    "detectedBy": "Deal Spotter",
+    "detectionConfidence": 0.93,
+    "status": "Ingested"
+  },
+  {
+    "id": "PIP-fe16617b",
+    "dealId": "DL-9c9a0247",
+    "borrowerId": "BRW-2472db2d",
+    "borrowerName": "Atlas Urban Holdings",
+    "emailSubject": "Executed Credit Agreement \u2014 Atlas Urban Holdings \u2014 Revolving Credit Facility \u2014 $30M",
+    "emailFrom": "davispolkwardwell@davis.com",
+    "emailDate": "2025-06-09T03:00:00Z",
+    "emailSnippet": "Please find attached the fully executed credit agreement for the $30M Revolving Credit Facility for Atlas Urban Holdings. All conditions precedent have been satisfied.",
+    "attachments": [
+      "Atlas_Urban_Holdings_Credit_Agreement.pdf"
+    ],
+    "detectedBy": "Deal Spotter",
+    "detectionConfidence": 0.93,
+    "status": "Ingested"
+  },
+  {
+    "id": "PIP-1c4bb1e8",
+    "dealId": "DL-bb38271e",
+    "borrowerId": "BRW-75226504",
+    "borrowerName": "Keystone Industrial Corp",
+    "emailSubject": "Executed Credit Agreement \u2014 Keystone Industrial Corp \u2014 Bilateral Loan \u2014 $150M",
+    "emailFrom": "sullivancromwell@sullivan.com",
+    "emailDate": "2025-05-18T17:00:00Z",
+    "emailSnippet": "Please find attached the fully executed credit agreement for the $150M Bilateral Loan for Keystone Industrial Corp. All conditions precedent have been satisfied.",
+    "attachments": [
+      "Keystone_Industrial_Corp_Credit_Agreement.pdf"
+    ],
+    "detectedBy": "Deal Spotter",
+    "detectionConfidence": 0.95,
+    "status": "Ingested"
+  },
+  {
+    "id": "PIP-a7ced429",
+    "dealId": "DL-552582ca",
+    "borrowerId": "BRW-08626dd9",
+    "borrowerName": "Evergreen Home Goods",
+    "emailSubject": "Executed Credit Agreement \u2014 Evergreen Home Goods \u2014 Bridge Loan \u2014 $30M",
+    "emailFrom": "wachtelllipton@wachtell.com",
+    "emailDate": "2025-05-15T01:00:00Z",
+    "emailSnippet": "Please find attached the fully executed credit agreement for the $30M Bridge Loan for Evergreen Home Goods. All conditions precedent have been satisfied.",
+    "attachments": [
+      "Evergreen_Home_Goods_Credit_Agreement.pdf"
+    ],
+    "detectedBy": "Deal Spotter",
+    "detectionConfidence": 0.95,
+    "status": "Ingested"
+  },
+  {
+    "id": "PIP-81bdce76",
+    "dealId": "DL-d706178c",
+    "borrowerId": "BRW-8f81c9ce",
+    "borrowerName": "Phoenix Assembly Group",
+    "emailSubject": "Executed Credit Agreement \u2014 Phoenix Assembly Group \u2014 Syndicated Loan \u2014 $25M",
+    "emailFrom": "cravathswainemoore@cravath.com",
+    "emailDate": "2025-05-06T23:00:00Z",
+    "emailSnippet": "Please find attached the fully executed credit agreement for the $25M Syndicated Loan for Phoenix Assembly Group. All conditions precedent have been satisfied.",
+    "attachments": [
+      "Phoenix_Assembly_Group_Credit_Agreement.pdf"
+    ],
+    "detectedBy": "Deal Spotter",
+    "detectionConfidence": 0.97,
+    "status": "Ingested"
+  }
+]
