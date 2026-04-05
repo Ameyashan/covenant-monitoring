@@ -4,6 +4,7 @@ import './globals.css';
 import Sidebar from '@/components/Sidebar';
 import TopBar from '@/components/TopBar';
 import { RoleProvider } from '@/context/RoleContext';
+import { PipelineProvider } from '@/context/PipelineContext';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -21,13 +22,15 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en" className={`${inter.variable} h-full`}>
       <body className="h-full flex antialiased" style={{ backgroundColor: '#f8fafc' }}>
         <RoleProvider>
-          <Sidebar />
-          <div className="flex flex-col flex-1 min-w-0 overflow-hidden">
-            <TopBar />
-            <main className="flex-1 overflow-y-auto p-6">
-              {children}
-            </main>
-          </div>
+          <PipelineProvider>
+            <Sidebar />
+            <div className="flex flex-col flex-1 min-w-0 overflow-hidden">
+              <TopBar />
+              <main className="flex-1 overflow-y-auto p-6">
+                {children}
+              </main>
+            </div>
+          </PipelineProvider>
         </RoleProvider>
       </body>
     </html>

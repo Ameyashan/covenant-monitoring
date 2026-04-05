@@ -17,6 +17,7 @@ import {
   FlaskConical,
   TrendingUp,
 } from 'lucide-react';
+import { usePipeline, type LivePipelineResult } from '@/context/PipelineContext';
 
 interface NavItem {
   label: string;
@@ -71,12 +72,25 @@ const navSections: NavSection[] = [
   },
 ];
 
+const LIVE_RESULT_HREFS: Record<string, (r: LivePipelineResult) => boolean> = {
+  '/extraction': (r) => r.agents.covenant_extractor?.status === 'success',
+  '/validation': (r) => r.agents.comparison?.status === 'success',
+  '/breaches': (r) => r.agents.breach_detection?.status === 'success',
+  '/breach-summary': (r) => r.agents.breach_summary?.status === 'success',
+};
+
 export default function Sidebar() {
   const pathname = usePathname();
+  const { pipelineResult } = usePipeline();
 
   const isActive = (href: string) => {
     if (href === '/') return pathname === '/';
     return pathname.startsWith(href);
+  };
+
+  const hasLive = (href: string) => {
+    if (!pipelineResult) return false;
+    return LIVE_RESULT_HREFS[href]?.(pipelineResult) ?? false;
   };
 
   return (
@@ -109,6 +123,7 @@ export default function Sidebar() {
             {section.items.map((item) => {
               const Icon = item.icon;
               const active = isActive(item.href);
+              const live = hasLive(item.href);
               return (
                 <Link
                   key={item.href}
@@ -126,6 +141,14 @@ export default function Sidebar() {
                       }}
                     >
                       {item.badge}
+                    </span>
+                  )}
+                  {live && (
+                    <span
+                      className="text-[9px] font-bold px-1.5 py-0.5 rounded-full"
+                      style={{ backgroundColor: 'rgba(59,130,246,0.18)', color: '#60a5fa' }}
+                    >
+                      Live
                     </span>
                   )}
                 </Link>
