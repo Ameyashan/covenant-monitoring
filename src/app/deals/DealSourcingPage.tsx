@@ -1297,7 +1297,7 @@ function FinancialsSkippedBanner({
 
 // ─── UploadPanel ───────────────────────────────────────────────────────────────
 
-function UploadPanel() {
+function UploadPanel({ onSelectMock }: { onSelectMock: () => void }) {
   const { setPipelineResult } = usePipeline();
   const [creditFile, setCreditFile] = useState<File | null>(null);
   const [financialFile, setFinancialFile] = useState<File | null>(null);
@@ -1659,7 +1659,7 @@ function UploadPanel() {
                       API key not configured — contact the administrator to enable live agent processing.{' '}
                       You can still explore the platform using{' '}
                       <button
-                        onClick={() => handleModeSelect('mock')}
+                        onClick={() => onSelectMock()}
                         className="underline font-semibold"
                         style={{ color: '#92400e', background: 'none', border: 'none', cursor: 'pointer', padding: 0 }}
                       >
@@ -1835,7 +1835,7 @@ export default function DealSourcingPage({ pipeline, deals, borrowers: _borrower
           </div>
 
           {/* ── Upload Panel ───────────────────────────────────────── */}
-          {activeMode === 'upload' && <UploadPanel />}
+          {activeMode === 'upload' && <UploadPanel onSelectMock={() => handleModeSelect('mock')} />}
 
           {/* ── Mock data content ──────────────────────────────────── */}
           {activeMode === 'mock' && (
